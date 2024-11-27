@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "fb956d19-d295-3ebf-aaed-033ae727ef4a",
+    "name": "ZcontroL12",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
