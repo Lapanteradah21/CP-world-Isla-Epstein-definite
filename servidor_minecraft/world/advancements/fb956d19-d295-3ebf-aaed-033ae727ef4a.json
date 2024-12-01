@@ -1711,6 +1711,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "pumpkin_pie": "2024-12-01 21:20:05 +0000",
+      "bread": "2024-12-01 22:27:36 +0000",
       "golden_carrot": "2024-12-01 21:25:19 +0000",
       "cooked_chicken": "2024-12-01 20:41:13 +0000"
     },
