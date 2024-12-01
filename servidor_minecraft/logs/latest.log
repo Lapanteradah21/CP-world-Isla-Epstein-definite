@@ -1642,3 +1642,9 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:mossy_cobblestone
 [21:35:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [21:35:37] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 11937ms behind, skipping 238 tick(s)
 [21:35:37] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ZcontroL12 moved too quickly! 2.634267572950648,-0.32456126151774356,9.68812718466279
+[21:43:58] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while generating VillageHouseRich1
+[21:43:58] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [1, 0] in dimension 0 (overworld) while populating chunk [-8, -223], causing cascading worldgen lag.
+[21:43:58] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:43:58] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while generating VillageHouseRich1
+[21:43:58] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [0, 0] in dimension 0 (overworld) while populating chunk [-8, -223], causing cascading worldgen lag.
+[21:43:58] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
