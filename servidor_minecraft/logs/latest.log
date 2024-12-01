@@ -1807,3 +1807,6 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:mossy_cobblestone
 [23:21:43] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while pre-complementing BigClockworkSite
 [23:21:43] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [1, 1] in dimension 0 (overworld) while populating chunk [-10, -235], causing cascading worldgen lag.
 [23:21:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:22:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZcontroL12 has made the advancement [Ice Bucket Challenge]
+[23:30:22] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ZcontroL12 lost connection: Disconnected
+[23:30:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZcontroL12 left the game
