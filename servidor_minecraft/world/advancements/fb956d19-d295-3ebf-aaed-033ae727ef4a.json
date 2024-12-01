@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-01 23:19:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_wooden_slab": {
     "criteria": {
       "has_the_recipe": "2024-11-27 02:22:30 +0000"
@@ -1378,6 +1384,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-12-01 23:19:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_the_recipe": "2024-11-27 02:22:30 +0000"
@@ -1906,6 +1918,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_the_recipe": "2024-11-27 02:22:30 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-01 23:19:33 +0000"
     },
     "done": true
   },
