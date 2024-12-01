@@ -575,6 +575,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-01 20:36:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_the_recipe": "2024-11-27 02:22:30 +0000"
@@ -1099,7 +1105,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "plains": "2024-11-27 02:22:30 +0000"
+      "plains": "2024-11-27 02:22:30 +0000",
+      "extreme_hills": "2024-12-01 20:34:41 +0000",
+      "roofed_forest": "2024-12-01 20:33:33 +0000"
     },
     "done": false
   },
@@ -1775,6 +1783,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-01 20:35:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_the_recipe": "2024-11-27 02:22:30 +0000"
@@ -2069,6 +2083,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-01 20:35:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_the_recipe": "2024-11-27 02:22:30 +0000"
@@ -2318,6 +2338,12 @@
   "minecraft:recipes/building_blocks/smooth_red_sandstone": {
     "criteria": {
       "has_the_recipe": "2024-11-27 02:22:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-01 20:34:46 +0000"
     },
     "done": true
   },
