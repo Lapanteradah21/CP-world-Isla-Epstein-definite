@@ -29813,3 +29813,297 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:mossy_cobblestone
 [21:05:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [21:06:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [21:07:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:07:44] [Server thread/TRACE] [reccomplex]: Generated structure 'SpruceTree' in StructureBoundingBox{x0=-65, y0=74, z0=154, x1=-61, y1=86, z1=158} (0)
+[21:08:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:08:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:09:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:09:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: charmder123 fell from a high place
+[21:09:47] [Server thread/INFO] [tombstone]: The last known grave of charmder123 is at location [name:Last Grave, x:-95, y:73, z:248] in the dimension 0
+[21:09:47] [Server thread/INFO] [tombstone]: charmder123 has successfully been saved
+[21:10:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <ZcontroL12> XD
+[21:10:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <charmder123> se me chispoteo
+[21:10:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:10:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZcontroL12 has reached the goal [Strong or Careful]
+[21:10:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZcontroL12 was blown up by Creeper
+[21:10:51] [Server thread/INFO] [tombstone]: The last known grave of ZcontroL12 is at location [name:Last Grave, x:-193, y:24, z:-3278] in the dimension 0
+[21:10:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZcontroL12 has made the advancement [Your First Grave]
+[21:10:51] [Server thread/INFO] [tombstone]: ZcontroL12 has successfully been saved
+[21:10:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <ZcontroL12> XD
+[21:11:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <charmder123> XDDD
+[21:11:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:11:24] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:11:24] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:11:24] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:11:24] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:11:25] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:11:25] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:11:25] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:11:25] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:11:25] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:11:30] [Server thread/WARN] [FML]: Quark loaded a new chunk [-22, -166] in dimension 0 (overworld) while populating chunk [-22, -167], causing cascading worldgen lag.
+[21:11:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:11:30] [Server thread/WARN] [FML]: Quark loaded a new chunk [-21, -166] in dimension 0 (overworld) while populating chunk [-22, -167], causing cascading worldgen lag.
+[21:11:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:11:31] [Server thread/WARN] [FML]: Quark loaded a new chunk [-22, -161] in dimension 0 (overworld) while populating chunk [-22, -162], causing cascading worldgen lag.
+[21:11:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:11:31] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing UnnaturalCrater
+[21:11:31] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-23, -180] in dimension 0 (overworld) while populating chunk [-22, -180], causing cascading worldgen lag.
+[21:11:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:11:31] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing UnnaturalCrater
+[21:11:31] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-22, -181] in dimension 0 (overworld) while populating chunk [-22, -180], causing cascading worldgen lag.
+[21:11:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:11:31] [Server thread/TRACE] [reccomplex]: Generated structure 'SavannaTree' in StructureBoundingBox{x0=-343, y0=68, z0=-2888, x1=-335, y1=80, z1=-2880} (0)
+[21:11:31] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing UnnaturalCrater
+[21:11:31] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-23, -181] in dimension 0 (overworld) while populating chunk [-22, -180], causing cascading worldgen lag.
+[21:11:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:11:31] [Server thread/TRACE] [reccomplex]: Structure 'UnnaturalCrater' canceled generation at [-341, -2861] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@7544fb28
+[21:11:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: charmder123 was shot by Skeleton
+[21:11:33] [Server thread/INFO] [tombstone]: The last known grave of charmder123 is at location [name:Last Grave, x:-97, y:115, z:250] in the dimension 0
+[21:11:33] [Server thread/INFO] [tombstone]: charmder123 has successfully been saved
+[21:11:36] [Server thread/TRACE] [reccomplex]: Generated structure 'Fiberpalm' in StructureBoundingBox{x0=-384, y0=66, z0=-2908, x1=-374, y1=79, z1=-2898} (0)
+[21:11:36] [Server thread/TRACE] [reccomplex]: Generated structure 'SavannaTree1' in StructureBoundingBox{x0=-336, y0=68, z0=-2896, x1=-325, y1=81, z1=-2886} (0)
+[21:11:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <ZcontroL12> tmr
+[21:11:41] [Server thread/TRACE] [reccomplex]: Generated structure 'SavannaTree' in StructureBoundingBox{x0=-385, y0=69, z0=-2917, x1=-377, y1=81, z1=-2909} (0)
+[21:11:41] [Server thread/TRACE] [reccomplex]: Generated structure 'Fiberpalm' in StructureBoundingBox{x0=-342, y0=71, z0=-2925, x1=-332, y1=84, z1=-2915} (0)
+[21:11:43] [Server thread/TRACE] [reccomplex]: Structure 'SavannaTree1' canceled generation at [-299, -2839] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@1fb70746
+[21:11:43] [Server thread/TRACE] [reccomplex]: Generated structure 'Fiberpalm' in StructureBoundingBox{x0=-311, y0=69, z0=-2835, x1=-301, y1=82, z1=-2825} (0)
+[21:11:44] [Server thread/TRACE] [reccomplex]: Structure 'SavannaTree' canceled generation at [-297, -2882] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@1fb70746
+[21:11:44] [Server thread/TRACE] [reccomplex]: Generated structure 'Fiberpalm' in StructureBoundingBox{x0=-309, y0=67, z0=-2890, x1=-299, y1=80, z1=-2880} (0)
+[21:11:46] [Server thread/WARN] [FML]: MalisisCore loaded a new chunk [-20, -186] in dimension 0 (overworld) while populating chunk [-20, -185], causing cascading worldgen lag.
+[21:11:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:11:46] [Server thread/WARN] [FML]: MalisisCore loaded a new chunk [-21, -186] in dimension 0 (overworld) while populating chunk [-20, -185], causing cascading worldgen lag.
+[21:11:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:11:48] [Server thread/TRACE] [reccomplex]: Structure 'Mopane' canceled generation at [-288, -2862] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@1fb70746
+[21:11:48] [Server thread/TRACE] [reccomplex]: Generated structure 'Mopane' in StructureBoundingBox{x0=-300, y0=73, z0=-2866, x1=-289, y1=85, z1=-2854} (0)
+[21:11:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:11:57] [Server thread/TRACE] [reccomplex]: Generated structure 'Mopane' in StructureBoundingBox{x0=-271, y0=74, z0=-2904, x1=-259, y1=86, z1=-2893} (0)
+[21:11:57] [Server thread/TRACE] [reccomplex]: Generated structure 'Fiberpalm' in StructureBoundingBox{x0=-278, y0=74, z0=-2870, x1=-268, y1=87, z1=-2860} (0)
+[21:11:57] [Server thread/TRACE] [reccomplex]: Structure 'SavannaTree' canceled generation at [-280, -2842] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@1fb70746
+[21:11:57] [Server thread/TRACE] [reccomplex]: Generated structure 'Mopane' in StructureBoundingBox{x0=-278, y0=70, z0=-2855, x1=-266, y1=82, z1=-2844} (0)
+[21:11:57] [Server thread/TRACE] [reccomplex]: Structure 'Mopane' canceled generation at [-271, -2827] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@1fb70746
+[21:11:57] [Server thread/TRACE] [reccomplex]: Structure 'Mopane' canceled generation at [-276, -2836] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@1fb70746
+[21:11:57] [Server thread/TRACE] [reccomplex]: Generated structure 'Fiberpalm' in StructureBoundingBox{x0=-281, y0=69, z0=-2840, x1=-271, y1=82, z1=-2830} (0)
+[21:11:57] [Server thread/WARN] [FML]: Rex's Additional Structures loaded a new chunk [-18, -177] in dimension 0 (overworld) while populating chunk [-18, -178], causing cascading worldgen lag.
+[21:11:57] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:12:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <charmder123> bueno ahora como llego hasta la ultima parte de la fortaleza
+[21:12:26] [Server thread/TRACE] [reccomplex]: Generated structure 'Mopane' in StructureBoundingBox{x0=-240, y0=71, z0=-2919, x1=-229, y1=83, z1=-2907} (0)
+[21:12:26] [Server thread/TRACE] [reccomplex]: Structure 'SavannaTree' canceled generation at [-236, -2927] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@1fb70746
+[21:12:26] [Server thread/TRACE] [reccomplex]: Generated structure 'Fiberpalm' in StructureBoundingBox{x0=-247, y0=72, z0=-2934, x1=-237, y1=85, z1=-2924} (0)
+[21:12:27] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type SandStone spawned at [ -256 | -2864 ], underground: false
+[21:12:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:12:48] [Server thread/TRACE] [reccomplex]: Generated structure 'Fiberpalm' in StructureBoundingBox{x0=-233, y0=70, z0=-2908, x1=-223, y1=83, z1=-2898} (0)
+[21:12:53] [Server thread/TRACE] [reccomplex]: Generated structure 'Mopane' in StructureBoundingBox{x0=-214, y0=63, z0=-2895, x1=-203, y1=75, z1=-2883} (0)
+[21:13:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: charmder123 fell from a high place
+[21:13:03] [Server thread/INFO] [tombstone]: charmder123 has successfully been saved
+[21:13:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <charmder123> diavlos
+[21:13:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:13:58] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:13:58] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:13:58] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:13:59] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:13:59] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:13:59] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:14:02] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:14:02] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:14:02] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:14:02] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:14:02] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:14:02] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:14:02] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:14:02] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:14:02] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:14:02] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:14:02] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:14:02] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:14:02] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:14:02] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:14:02] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:14:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:14:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:14:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:14:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:14:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:14:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:14:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:14:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:14:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:14:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:14:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: charmder123 fell from a high place
+[21:14:12] [Server thread/INFO] [tombstone]: The last known grave of charmder123 is at location [name:Last Grave, x:-91, y:76, z:250] in the dimension 0
+[21:14:12] [Server thread/INFO] [tombstone]: charmder123 has successfully been saved
+[21:14:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:15:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:16:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:16:25] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:25] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:25] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:25] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:25] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:25] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:25] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:25] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:25] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:25] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:25] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:25] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:25] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:25] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:25] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:26] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:26] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:26] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:26] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:26] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:26] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:26] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:26] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:26] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:26] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:26] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:26] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:26] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:26] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:26] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:26] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:26] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:26] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:26] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:26] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:27] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:27] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:27] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:27] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:27] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:27] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:27] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:27] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:27] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:27] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:27] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:27] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:27] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:27] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:27] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:27] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:27] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:27] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:27] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:28] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:28] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:28] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:28] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:28] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:28] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:28] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:28] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:28] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:28] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:28] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:28] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:28] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:28] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:28] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:28] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:28] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:28] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:29] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:29] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:29] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:29] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:29] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:29] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:29] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:29] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:29] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:29] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:29] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:29] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:29] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:29] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:29] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:29] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:30] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:30] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:30] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:30] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:33] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:33] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:33] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:33] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:33] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:33] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:33] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:33] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:33] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:33] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:33] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:33] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:33] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:33] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:33] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:33] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:33] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:33] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:33] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:33] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:33] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:33] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:33] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:33] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:33] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:33] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:33] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:33] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:33] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:33] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:35] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:35] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:35] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:35] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:35] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:35] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:35] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:35] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:46] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:47] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:47] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:47] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:56] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:56] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:56] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:56] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:56] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:56] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:56] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:16:56] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:17:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:17:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:17:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:17:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:17:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:17:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:17:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:17:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:17:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:17:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:17:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:17:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:17:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:17:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:17:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:17:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:17:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:17:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:17:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:17:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:17:03] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:17:04] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:17:41] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:17:41] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:17:41] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:17:41] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:17:41] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:17:42] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:17:42] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:17:42] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:17:42] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
