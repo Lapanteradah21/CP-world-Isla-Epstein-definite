@@ -659,3 +659,16 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:mossy_cobblestone
 [00:35:31] [Server thread/INFO] [Quark ASM]: Located Method, patching...
 [00:35:31] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/item/ItemStack.func_77986_q ()Lnet/minecraft/nbt/NBTTagList;
 [00:35:31] [Server thread/INFO] [Quark ASM]: Patch result: true
+[01:37:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[01:37:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[01:37:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[01:37:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[01:37:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[01:37:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/the_nether
+[01:37:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/the_end
+[01:37:09] [Server thread/INFO] [FML]: Unloading dimension 0
+[01:37:09] [Server thread/INFO] [FML]: Unloading dimension -1
+[01:37:09] [Server thread/INFO] [FML]: Unloading dimension 1
+[01:37:09] [Server thread/INFO] [STDOUT]: [exterminatorjeff.undergroundbiomes.intermod.OresRegistry:recheckPile:344]: Blocks queued for redo: 0
+[01:37:09] [Server thread/INFO] [undergroundbiomes]: [UndergroundBiomes] Server Stopped
+[01:37:09] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
