@@ -825,3 +825,9 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:mossy_cobblestone
 [22:14:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: charmder123 joined the game
 [22:14:55] [Server thread/INFO] [Waila]: Player EntityPlayerMP['charmder123'/150897, l='world', x=-92.50, y=80.10, z=180.50] connected. Sending ping
 [22:15:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <charmder123> vole
+[22:20:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZcontroL12 has made the advancement [Cover Me With Diamonds]
+[22:20:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: charmder123 has reached the goal [Bone Crusher]
+[22:22:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZcontroL12 has made the advancement [Enchanter]
+[22:27:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: charmder123 was blown up by Creeper
+[22:27:08] [Server thread/INFO] [tombstone]: The last known grave of charmder123 is at location [name:Last Grave, x:-103, y:62, z:169] in the dimension 0
+[22:27:09] [Server thread/INFO] [tombstone]: charmder123 has successfully been saved

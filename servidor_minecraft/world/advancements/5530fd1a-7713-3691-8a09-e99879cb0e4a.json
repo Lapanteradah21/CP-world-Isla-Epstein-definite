@@ -467,6 +467,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2024-12-02 22:20:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar": {
     "criteria": {
       "has_the_recipe": "2024-12-02 01:39:31 +0000"

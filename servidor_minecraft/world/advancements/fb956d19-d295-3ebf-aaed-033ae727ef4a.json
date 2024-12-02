@@ -203,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2024-12-02 22:20:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2024-11-27 02:22:30 +0000"
@@ -668,6 +674,12 @@
   "minecraft:recipes/decorations/orange_bed": {
     "criteria": {
       "has_the_recipe": "2024-11-27 02:22:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-02 22:22:12 +0000"
     },
     "done": true
   },
