@@ -776,3 +776,18 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:mossy_cobblestone
 [21:14:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: charmder123 fell from a high place
 [21:14:12] [Server thread/INFO] [tombstone]: The last known grave of charmder123 is at location [name:Last Grave, x:-91, y:76, z:250] in the dimension 0
 [21:14:12] [Server thread/INFO] [tombstone]: charmder123 has successfully been saved
+[21:19:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: charmder123 was shot by Skeleton
+[21:19:48] [Server thread/INFO] [tombstone]: charmder123 has successfully been saved
+[21:20:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: charmder123 has made the advancement [Sweet dreams]
+[21:21:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: charmder123 hit the ground too hard
+[21:21:09] [Server thread/INFO] [tombstone]: charmder123 has successfully been saved
+[21:21:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: charmder123 has reached the goal [Chain Death]
+[21:21:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: charmder123 was shot by Skeleton
+[21:21:51] [Server thread/INFO] [tombstone]: charmder123 has successfully been saved
+[21:22:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: charmder123 was slain by Zombie
+[21:22:36] [Server thread/INFO] [tombstone]: The last known grave of charmder123 is at location [name:Last Grave, x:-79, y:80, z:154] in the dimension 0
+[21:22:36] [Server thread/INFO] [tombstone]: charmder123 has successfully been saved
+[21:24:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: charmder123 was shot by Skeleton
+[21:24:16] [Server thread/INFO] [tombstone]: charmder123 has successfully been saved
+[21:27:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: charmder123 was shot by Skeleton
+[21:27:29] [Server thread/INFO] [tombstone]: charmder123 has successfully been saved
