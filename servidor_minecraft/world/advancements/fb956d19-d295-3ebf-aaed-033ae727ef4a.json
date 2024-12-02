@@ -654,7 +654,8 @@
       "husk": "2024-12-01 20:49:18 +0000",
       "zombie": "2024-12-01 21:15:03 +0000",
       "spider": "2024-12-02 21:39:34 +0000",
-      "creeper": "2024-12-01 23:29:27 +0000"
+      "creeper": "2024-12-01 23:29:27 +0000",
+      "enderman": "2024-12-02 22:17:47 +0000"
     },
     "done": false
   },
@@ -1075,6 +1076,12 @@
   "minecraft:recipes/decorations/orange_banner": {
     "criteria": {
       "has_the_recipe": "2024-11-27 02:22:30 +0000"
+    },
+    "done": true
+  },
+  "cfm:modern_technology": {
+    "criteria": {
+      "placed_computer": "2024-12-02 22:09:16 +0000"
     },
     "done": true
   },
@@ -2529,6 +2536,12 @@
     },
     "done": true
   },
+  "cfm:buy_item": {
+    "criteria": {
+      "minebay_purchase": "2024-12-02 22:09:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_the_recipe": "2024-11-27 02:22:30 +0000"
@@ -2718,6 +2731,12 @@
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_the_recipe": "2024-11-27 02:22:30 +0000"
+    },
+    "done": true
+  },
+  "cfm:appliance_city": {
+    "criteria": {
+      "place_appliance": "2024-12-02 22:09:16 +0000"
     },
     "done": true
   },

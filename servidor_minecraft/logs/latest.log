@@ -805,3 +805,23 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:mossy_cobblestone
 [21:59:04] [Server thread/INFO] [tombstone]: charmder123 has successfully been saved
 [22:02:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ZcontroL12 moved wrongly!
 [22:03:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ZcontroL12 moved wrongly!
+[22:08:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: charmder123 was slain by Cave Spider
+[22:08:48] [Server thread/INFO] [tombstone]: The last known grave of charmder123 is at location [name:Last Grave, x:108, y:74, z:206] in the dimension 0
+[22:08:48] [Server thread/INFO] [tombstone]: charmder123 has successfully been saved
+[22:09:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZcontroL12 has made the advancement [Appliance City]
+[22:09:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZcontroL12 has made the advancement [Such Advancement]
+[22:09:28] [Netty Epoll Server IO #0/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZcontroL12 has made the advancement [$$$]
+[22:09:35] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ 256 | 64 ], underground: false
+[22:09:37] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ 256 | 352 ], underground: true
+[22:13:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: charmder123 has made the advancement [Hammer Time!]
+[22:14:38] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: charmder123 was kicked for floating too long!
+[22:14:38] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: charmder123 lost connection: Flying is not enabled on this server
+[22:14:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: charmder123 left the game
+[22:14:52] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[22:14:52] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 68 mods : wolfarmor@3.8.0,mowziesmobs@1.5.8,torchslabmod@v1.5.1,zawa@1.12.2-2.1.3,mca@6.1.0,creativecoredummy@1.0.0,jei@4.16.1.1012,powerdrop@1.0,betternether@0.1.8.6,ivtoolkit@1.3.3-1.12,bettercaves@1.12.2,waystones@4.1.0,mcp@9.42,artifacts@1.12.2-1.2.4,champions@1.12.2-1.0.11.10,bookshelf@2.3.590,llibrary@1.7.20,uteamcore@2.2.5.319,additionalstructures@2.5.0,waila@1.8.26,tlauncher_custom_cape_skin@1.4,carryon@1.12.3,fpsreducer@mc1.12.2-1.20,traverse@1.6.0,mysticalworld@1.12.2-1.11.0,usefulslime@1.2,ido@2.0.0-B,paraglider@1.0.1.5,forge@14.23.5.2860,mysticallib@1.12.2-1.13.0,malisisdoors@1.12.2-7.3.0,orelib@3.6.0.1,dsurround@@VERSION@,eplus@5.0.176,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,usefulbackpacks@1.5.4.85,undergroundbiomes@1.3.14,baubles@1.5.2,creativecore@1.10.0,battletowers@1.6.5,reccomplex@1.4.8.6,gvc@1.2.5,potioncore@1.9_for_1.12.2,quark@r1.6-179,patchouli@1.0-23.6,spartanshields@1.5.4,xaerominimap@24.5.0,mobsunscreen@@version@,qualitytools@1.0.7_for_1.12.2,securitycraft@v1.9.11,autoreglib@1.3-32,FML@8.0.99.99,obfuscate@0.4.2,tombstone@4.6.8,gottschcore@1.15.1,opframe@1.4.0,spartanweaponry@1.6.0,appleskin@1.0.14,cfm@6.3.0,xaerominimap_core@1.12.2-1.0,itemphysic@1.4.0,bookworm@1.12.2-2.5.2.1,xlfoodmod@1.12.2-1.9.2,speedyladders@1.1.3,bettermineshafts@1.12.2-2.2.1,xpbook@v2.0.1
+[22:14:55] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:14:55] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: charmder123[/127.173.58.70:48657] logged in with entity id 150897 at (-92.5, 80.0999984741211, 180.5)
+[22:14:55] [Server thread/INFO] [dsurround]: Player [charmder123] connected with Dynamic Surroundings @VERSION@
+[22:14:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: charmder123 joined the game
+[22:14:55] [Server thread/INFO] [Waila]: Player EntityPlayerMP['charmder123'/150897, l='world', x=-92.50, y=80.10, z=180.50] connected. Sending ping
+[22:15:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <charmder123> vole

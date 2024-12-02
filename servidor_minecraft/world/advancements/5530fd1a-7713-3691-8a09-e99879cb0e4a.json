@@ -383,6 +383,12 @@
     },
     "done": true
   },
+  "spartanweaponry:hammer": {
+    "criteria": {
+      "craft": "2024-12-02 22:13:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_the_recipe": "2024-12-02 01:39:31 +0000"
