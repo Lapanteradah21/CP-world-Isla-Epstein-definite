@@ -692,3 +692,39 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:mossy_cobblestone
 [20:43:40] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
 [20:43:40] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
 [20:43:40] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[20:50:26] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
+[20:50:26] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [11, 24] in dimension 0 (overworld) while populating chunk [11, 23], causing cascading worldgen lag.
+[20:50:26] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:50:29] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2965ms behind, skipping 59 tick(s)
+[20:50:47] [Server thread/WARN] [FML]: Quark loaded a new chunk [12, 30] in dimension 0 (overworld) while populating chunk [12, 29], causing cascading worldgen lag.
+[20:50:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:50:51] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
+[20:50:51] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [13, 33] in dimension 0 (overworld) while populating chunk [12, 33], causing cascading worldgen lag.
+[20:50:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:50:56] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
+[20:50:56] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [13, 23] in dimension 0 (overworld) while populating chunk [13, 24], causing cascading worldgen lag.
+[20:50:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:50:57] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
+[20:50:57] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [14, 27] in dimension 0 (overworld) while populating chunk [13, 27], causing cascading worldgen lag.
+[20:50:57] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:51:02] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
+[20:51:02] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [13, 34] in dimension 0 (overworld) while populating chunk [12, 34], causing cascading worldgen lag.
+[20:51:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:51:02] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
+[20:51:02] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [13, 35] in dimension 0 (overworld) while populating chunk [13, 34], causing cascading worldgen lag.
+[20:51:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:51:02] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ 208 | 560 ], underground: false
+[20:51:02] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
+[20:51:02] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [14, 35] in dimension 0 (overworld) while populating chunk [13, 34], causing cascading worldgen lag.
+[20:51:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:51:03] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
+[20:51:03] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [14, 34] in dimension 0 (overworld) while populating chunk [13, 34], causing cascading worldgen lag.
+[20:51:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:51:03] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing GenericTreeHuge
+[20:51:03] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [13, 33] in dimension 0 (overworld) while populating chunk [12, 34], causing cascading worldgen lag.
+[20:51:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:52:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <charmder123> la e liado
+[20:53:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <ZcontroL12> por que?
+[20:53:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <charmder123> ya me salve
+[20:54:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: charmder123 has made the advancement [Hot Stuff]
+[20:55:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZcontroL12 has made the advancement [Sobriety Test]
