@@ -479,6 +479,12 @@
     },
     "done": true
   },
+  "spartanweaponry:root": {
+    "criteria": {
+      "handle_in_inventory": "2024-12-02 21:01:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
     "criteria": {
       "has_the_recipe": "2024-12-02 01:39:31 +0000"
@@ -775,6 +781,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_the_recipe": "2024-12-02 01:39:31 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:katana": {
+    "criteria": {
+      "craft": "2024-12-02 21:02:14 +0000"
     },
     "done": true
   },
