@@ -796,3 +796,5 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:mossy_cobblestone
 [21:45:06] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-6, -174] in dimension 0 (overworld) while populating chunk [-5, -173], causing cascading worldgen lag.
 [21:45:06] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [21:45:06] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type SandStone spawned at [ -80 | -2768 ], underground: true
+[21:52:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: charmder123 has made the advancement [...And my Axe!]
+[21:57:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: charmder123 has made the advancement [Take Aim]
