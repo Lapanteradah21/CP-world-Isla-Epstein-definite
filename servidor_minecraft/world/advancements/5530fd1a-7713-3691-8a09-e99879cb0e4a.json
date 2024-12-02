@@ -629,7 +629,8 @@
       "cave_spider": "2024-12-02 01:53:28 +0000",
       "zombie": "2024-12-02 02:02:51 +0000",
       "witch": "2024-12-02 02:09:06 +0000",
-      "spider": "2024-12-02 01:57:39 +0000"
+      "spider": "2024-12-02 01:57:39 +0000",
+      "creeper": "2024-12-02 20:36:33 +0000"
     },
     "done": false
   },
@@ -864,6 +865,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_the_recipe": "2024-12-02 01:39:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-02 20:36:20 +0000"
     },
     "done": true
   },
