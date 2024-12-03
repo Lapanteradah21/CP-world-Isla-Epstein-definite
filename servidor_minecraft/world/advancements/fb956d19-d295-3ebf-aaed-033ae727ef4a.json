@@ -1766,6 +1766,12 @@
     },
     "done": true
   },
+  "cfm:minekea": {
+    "criteria": {
+      "get_chair_or_table": "2024-12-03 21:57:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_the_recipe": "2024-11-27 02:22:30 +0000"

@@ -699,3 +699,4 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:mossy_cobblestone
 [21:44:21] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [4, -223] in dimension 0 (overworld) while populating chunk [4, -222], causing cascading worldgen lag.
 [21:44:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [21:44:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZcontroL12 has reached the goal [Bone Crusher]
+[21:57:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZcontroL12 has made the advancement [MineKea]
