@@ -668,3 +668,12 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:mossy_cobblestone
 [21:00:17] [Server thread/INFO] [dsurround]: Player [ZcontroL12] connected with Dynamic Surroundings @VERSION@
 [21:00:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZcontroL12 joined the game
 [21:00:17] [Server thread/INFO] [Waila]: Player EntityPlayerMP['ZcontroL12'/359, l='world', x=-204.30, y=64.00, z=-3385.70] connected. Sending ping
+[21:12:07] [Server thread/INFO] [Quark ASM]: Transforming net.minecraft.inventory.ContainerWorkbench
+[21:12:07] [Server thread/INFO] [Quark ASM]: Applying Transformation to method (Names [transferStackInSlot, func_82846_b] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;I)Lnet/minecraft/item/ItemStack;)
+[21:12:07] [Server thread/INFO] [Quark ASM]: Located Method, patching...
+[21:12:07] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[21:12:07] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[21:12:07] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[21:12:07] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[21:12:07] [Server thread/INFO] [Quark ASM]: Patch result: true
+[21:12:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZcontroL12 has made the advancement [A Time for Misadventure]

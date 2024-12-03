@@ -443,6 +443,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/create_fishing_rod": {
+    "criteria": {
+      "has_fishing_rod": "2024-12-03 21:12:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/emerald": {
     "criteria": {
       "has_the_recipe": "2024-11-27 02:22:30 +0000"
