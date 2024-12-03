@@ -724,3 +724,6 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:mossy_cobblestone
 [22:41:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZcontroL12 joined the game
 [22:41:01] [Server thread/INFO] [Waila]: Player EntityPlayerMP['ZcontroL12'/41332, l='world', x=-217.50, y=62.03, z=-3361.50] connected. Sending ping
 [22:44:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZcontroL12 has made the advancement [Your First Receptacle]
+[22:49:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZcontroL12 has made the advancement [Not even afraid of death]
+[22:49:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZcontroL12 has made the advancement [Back to childhood]
+[22:49:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ZcontroL12 moved wrongly!

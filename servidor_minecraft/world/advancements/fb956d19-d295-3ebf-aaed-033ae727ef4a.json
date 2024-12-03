@@ -594,6 +594,12 @@
     },
     "done": true
   },
+  "tombstone:recipes/from_voodoo_poppet": {
+    "criteria": {
+      "has_ingredient": "2024-12-03 22:49:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_the_recipe": "2024-11-27 02:22:30 +0000"
@@ -933,6 +939,12 @@
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_the_recipe": "2024-11-27 02:22:30 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2024-12-03 22:49:01 +0000"
     },
     "done": true
   },
@@ -1804,6 +1816,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-03 22:48:53 +0000",
       "pumpkin_pie": "2024-12-01 21:20:05 +0000",
       "bread": "2024-12-01 22:27:36 +0000",
       "golden_carrot": "2024-12-01 21:25:19 +0000",
@@ -2108,6 +2121,12 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_the_recipe": "2024-11-27 02:22:30 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2024-12-03 22:49:01 +0000"
     },
     "done": true
   },
