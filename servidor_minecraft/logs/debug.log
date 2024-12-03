@@ -28949,3 +28949,19 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:mossy_cobblestone
 [23:15:18] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ZcontroL12 moved wrongly!
 [23:15:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [23:16:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:17:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:18:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:18:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:19:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:20:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:21:02] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ZcontroL12 lost connection: Disconnected
+[23:21:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZcontroL12 left the game
+[23:21:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:21:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:22:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:23:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:24:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:24:53] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:25:38] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:26:23] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:27:08] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
