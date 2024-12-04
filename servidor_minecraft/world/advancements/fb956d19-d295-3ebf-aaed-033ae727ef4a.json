@@ -1248,6 +1248,7 @@
       "birch_forest": "2024-12-01 20:44:03 +0000",
       "deep_ocean": "2024-12-01 20:45:21 +0000",
       "beaches": "2024-12-01 20:44:57 +0000",
+      "extreme_hills_with_trees": "2024-12-04 22:57:22 +0000",
       "desert_hills": "2024-12-01 20:47:15 +0000",
       "forest_hills": "2024-12-01 20:44:12 +0000",
       "plains": "2024-11-27 02:22:30 +0000",
@@ -2321,6 +2322,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_the_recipe": "2024-11-27 02:22:30 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:sneak_village": {
+    "criteria": {
+      "steal_crystal": "2024-12-04 22:52:51 +0000"
     },
     "done": true
   },
