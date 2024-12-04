@@ -28077,3 +28077,24 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:mossy_cobblestone
 [21:25:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [21:25:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [21:26:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:27:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:28:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:28:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:29:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:30:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:31:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:31:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:32:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:33:09] [Server thread/INFO] [Quark ASM]: Transforming net.minecraft.inventory.ContainerWorkbench
+[21:33:09] [Server thread/INFO] [Quark ASM]: Applying Transformation to method (Names [transferStackInSlot, func_82846_b] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;I)Lnet/minecraft/item/ItemStack;)
+[21:33:09] [Server thread/INFO] [Quark ASM]: Located Method, patching...
+[21:33:09] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[21:33:09] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[21:33:09] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[21:33:09] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[21:33:09] [Server thread/INFO] [Quark ASM]: Patch result: true
+[21:33:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:34:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:34:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:35:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:36:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world

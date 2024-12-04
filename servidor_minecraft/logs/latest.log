@@ -673,3 +673,11 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:mossy_cobblestone
 [21:17:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ZcontroL12 moved wrongly!
 [21:17:24] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ZcontroL12 moved wrongly!
 [21:19:17] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ZcontroL12 moved wrongly!
+[21:33:09] [Server thread/INFO] [Quark ASM]: Transforming net.minecraft.inventory.ContainerWorkbench
+[21:33:09] [Server thread/INFO] [Quark ASM]: Applying Transformation to method (Names [transferStackInSlot, func_82846_b] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;I)Lnet/minecraft/item/ItemStack;)
+[21:33:09] [Server thread/INFO] [Quark ASM]: Located Method, patching...
+[21:33:09] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[21:33:09] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[21:33:09] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[21:33:09] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[21:33:09] [Server thread/INFO] [Quark ASM]: Patch result: true
