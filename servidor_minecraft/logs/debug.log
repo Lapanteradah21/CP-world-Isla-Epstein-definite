@@ -28098,3 +28098,48 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:mossy_cobblestone
 [21:34:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [21:35:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [21:36:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:37:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:37:52] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[21:37:52] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[21:37:52] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[21:37:52] [Server thread/DEBUG] [bettercaves]: CAVE INFORMATION
+[21:37:52] [Server thread/DEBUG] [bettercaves]: --> MAX POSSIBLE THRESHOLD: 1.0
+[21:37:52] [Server thread/DEBUG] [bettercaves]: --> TOTAL PRIORITY: 15
+[21:37:52] [Server thread/DEBUG] [bettercaves]: --> TOTAL RANGE LENGTH: 2.0
+[21:37:52] [Server thread/DEBUG] [bettercaves]: --> CARVER
+[21:37:52] [Server thread/DEBUG] [bettercaves]:     --> RANGE FOUND: [-1.00, 0.33] (0.7890%) -- smooth cutoffs: [-0.29, 0.05]
+[21:37:52] [Server thread/DEBUG] [bettercaves]: --> CARVER
+[21:37:52] [Server thread/DEBUG] [bettercaves]:     --> RANGE FOUND: [0.33, 1.00] (0.2110%) -- smooth cutoffs: [0.42, 0.56]
+[21:37:52] [Server thread/DEBUG] [bettercaves]: CAVERN INFORMATION
+[21:37:52] [Server thread/DEBUG] [bettercaves]: --> SPAWN CHANCE SET TO: 0.25
+[21:37:52] [Server thread/DEBUG] [bettercaves]: --> TOTAL PRIORITY: 20
+[21:37:52] [Server thread/DEBUG] [bettercaves]: --> DEADZONE PERCENT: 0.75(0.75 TOTAL)
+[21:37:52] [Server thread/DEBUG] [bettercaves]: --> CARVER
+[21:37:52] [Server thread/DEBUG] [bettercaves]:     --> RANGE PERCENT LENGTH WANTED: 0.125
+[21:37:52] [Server thread/DEBUG] [bettercaves]:     --> RANGE FOUND: [-1.00, -0.45] (0.1272%) -- smooth cutoffs: [-0.61, -0.52]
+[21:37:52] [Server thread/DEBUG] [bettercaves]: --> CARVER
+[21:37:52] [Server thread/DEBUG] [bettercaves]:     --> RANGE PERCENT LENGTH WANTED: 0.125
+[21:37:52] [Server thread/DEBUG] [bettercaves]:     --> RANGE FOUND: [0.46, 0.76] (0.1260%) -- smooth cutoffs: [0.53, 0.62]
+[21:37:52] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[21:37:52] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[21:37:52] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[21:37:55] [Server thread/WARN] [FML]: Rex's Additional Structures loaded a new chunk [-25, -231] in dimension 0 (overworld) while populating chunk [-24, -230], causing cascading worldgen lag.
+[21:37:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:37:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:37:58] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-26, -231] in dimension 0 (overworld) while populating chunk [-25, -230], causing cascading worldgen lag.
+[21:37:58] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:37:58] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type SandStone spawned at [ -400 | -3680 ], underground: false
+[21:38:00] [Server thread/WARN] [FML]: MalisisCore loaded a new chunk [-27, -233] in dimension 0 (overworld) while populating chunk [-26, -232], causing cascading worldgen lag.
+[21:38:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:38:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:39:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:40:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:40:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:41:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:42:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:43:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:43:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:44:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:45:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:46:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:46:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
