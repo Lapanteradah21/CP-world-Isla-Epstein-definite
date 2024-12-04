@@ -863,3 +863,5 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:mossy_cobblestone
 [22:07:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [22:07:08] [Server thread/WARN] [FML]: MalisisCore loaded a new chunk [4, -261] in dimension 0 (overworld) while populating chunk [5, -260], causing cascading worldgen lag.
 [22:07:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:09:23] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[22:12:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZcontroL12 has completed the challenge [Usurper]

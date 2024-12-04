@@ -774,6 +774,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_barako": {
+    "criteria": {
+      "barako": "2024-12-04 22:12:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_the_recipe": "2024-11-27 02:22:30 +0000"
