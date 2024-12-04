@@ -865,3 +865,5 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:mossy_cobblestone
 [22:07:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [22:09:23] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
 [22:12:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZcontroL12 has completed the challenge [Usurper]
+[22:24:44] [Server thread/INFO] [mca]: Villager death: Demetrice. Caused by: Zombie. UUID: 62c0ceca-bc53-41ef-a23e-40474c2fd6c0
+[22:27:20] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type Netherrack spawned at [ 368 | -3872 ], underground: false
