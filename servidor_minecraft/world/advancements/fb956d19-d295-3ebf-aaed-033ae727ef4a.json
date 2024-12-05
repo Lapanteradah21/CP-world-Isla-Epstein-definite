@@ -890,6 +890,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/use_mercy": {
+    "criteria": {
+      "coded_trigger": "2024-12-05 22:18:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_the_recipe": "2024-11-27 02:22:30 +0000"

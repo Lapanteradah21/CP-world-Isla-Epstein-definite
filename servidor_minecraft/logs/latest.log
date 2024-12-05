@@ -696,3 +696,8 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:mossy_cobblestone
 [22:09:55] [Server thread/WARN] [FML]: Quark loaded a new chunk [-32, -249] in dimension 0 (overworld) while populating chunk [-31, -249], causing cascading worldgen lag.
 [22:09:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [22:10:27] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2138ms behind, skipping 42 tick(s)
+[22:14:44] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-38, -235] in dimension 0 (overworld) while populating chunk [-37, -234], causing cascading worldgen lag.
+[22:14:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:14:44] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type SandStone spawned at [ -592 | -3744 ], underground: false
+[22:18:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZcontroL12 has reached the goal [A self-respecting Soul]
+[22:20:29] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
