@@ -2553,6 +2553,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/use_unstable_intangibility": {
+    "criteria": {
+      "coded_trigger": "2024-12-05 23:10:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2024-11-27 02:22:30 +0000"
