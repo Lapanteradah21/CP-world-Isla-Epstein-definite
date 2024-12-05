@@ -715,3 +715,12 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:mossy_cobblestone
 [22:46:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <charmder123> yo te salvare tlauncher
 [23:05:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: charmder123 has made the advancement [Isn't It Iron Pick]
 [23:10:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZcontroL12 has reached the goal [To be or not to be]
+[23:12:09] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing JungleTreeHuge
+[23:12:09] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-25, 21] in dimension 0 (overworld) while populating chunk [-25, 20], causing cascading worldgen lag.
+[23:12:09] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:12:09] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing JungleTreeHuge
+[23:12:09] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-26, 21] in dimension 0 (overworld) while populating chunk [-25, 20], causing cascading worldgen lag.
+[23:12:09] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:12:09] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing JungleTreeHuge
+[23:12:09] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-26, 20] in dimension 0 (overworld) while populating chunk [-25, 20], causing cascading worldgen lag.
+[23:12:09] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.

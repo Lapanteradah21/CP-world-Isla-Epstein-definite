@@ -29878,3 +29878,31 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:mossy_cobblestone
 [23:11:35] [Server thread/TRACE] [reccomplex]: Structure 'BirchTree1' canceled generation at [-363, 259] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2a33107a
 [23:11:35] [Server thread/TRACE] [reccomplex]: Generated structure 'QuakingAspen' in StructureBoundingBox{x0=-364, y0=65, z0=249, x1=-358, y1=85, z1=255} (0)
 [23:11:35] [Server thread/TRACE] [reccomplex]: Generated structure 'BirchTree1' in StructureBoundingBox{x0=-371, y0=72, z0=243, x1=-365, y1=87, z1=248} (0)
+[23:11:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:12:09] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing JungleTreeHuge
+[23:12:09] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-25, 21] in dimension 0 (overworld) while populating chunk [-25, 20], causing cascading worldgen lag.
+[23:12:09] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:12:09] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing JungleTreeHuge
+[23:12:09] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-26, 21] in dimension 0 (overworld) while populating chunk [-25, 20], causing cascading worldgen lag.
+[23:12:09] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:12:09] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing JungleTreeHuge
+[23:12:09] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-26, 20] in dimension 0 (overworld) while populating chunk [-25, 20], causing cascading worldgen lag.
+[23:12:09] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:12:09] [Server thread/TRACE] [reccomplex]: Structure 'JungleTreeHuge' canceled generation at [-385, 340] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2a33107a
+[23:12:09] [Server thread/TRACE] [reccomplex]: Structure 'JungleTreeHuge1' canceled generation at [-377, 342] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2a33107a
+[23:12:09] [Server thread/TRACE] [reccomplex]: Structure 'JungleTreeHuge' canceled generation at [-392, 341] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2a33107a
+[23:12:09] [Server thread/TRACE] [reccomplex]: Structure 'JungleTreeHuge1' canceled generation at [-388, 338] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2a33107a
+[23:12:09] [Server thread/TRACE] [reccomplex]: Structure 'JungleTreeHuge' canceled generation at [-377, 340] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@2a33107a
+[23:12:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:13:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:14:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:14:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:15:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:16:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:17:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:17:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:18:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:19:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:20:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:20:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:21:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
