@@ -27898,3 +27898,18 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:mossy_cobblestone
 [20:58:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [20:59:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [20:59:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:00:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:01:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:02:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:02:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:03:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:04:25] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[21:04:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:04:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZcontroL12 has made the advancement [Where Is The Stone Pen?]
+[21:05:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:05:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:06:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:07:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:08:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:08:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:09:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world

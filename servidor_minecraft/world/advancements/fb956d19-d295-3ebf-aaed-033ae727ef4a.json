@@ -680,6 +680,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_villager": "2024-12-05 21:08:02 +0000",
       "skeleton": "2024-12-01 20:51:12 +0000",
       "husk": "2024-12-01 20:49:18 +0000",
       "zombie": "2024-12-01 21:15:03 +0000",
@@ -2589,6 +2590,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_the_recipe": "2024-11-27 02:22:30 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2024-12-05 21:04:33 +0000"
     },
     "done": true
   },
