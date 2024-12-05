@@ -1525,6 +1525,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/strange_mount": {
+    "criteria": {
+      "has_zombie_receptacle": "2024-12-05 21:24:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_bed_from_white_bed": {
     "criteria": {
       "has_the_recipe": "2024-11-27 02:22:30 +0000"
