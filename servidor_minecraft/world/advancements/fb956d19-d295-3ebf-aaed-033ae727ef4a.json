@@ -823,6 +823,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/use_aquatic_life": {
+    "criteria": {
+      "coded_trigger": "2024-12-05 21:48:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_bed": {
     "criteria": {
       "has_the_recipe": "2024-11-27 02:22:30 +0000"
@@ -2134,6 +2140,12 @@
   "minecraft:recipes/redstone/acacia_door": {
     "criteria": {
       "has_the_recipe": "2024-11-27 02:22:30 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/use_reach": {
+    "criteria": {
+      "coded_trigger": "2024-12-05 21:46:49 +0000"
     },
     "done": true
   },

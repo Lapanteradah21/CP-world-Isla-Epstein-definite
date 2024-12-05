@@ -688,3 +688,5 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:mossy_cobblestone
 [21:13:01] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
 [21:24:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZcontroL12 has reached the goal [Strange Mount]
 [21:33:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZcontroL12 has completed the challenge [Karma]
+[21:46:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZcontroL12 has reached the goal [The long arm of the law]
+[21:48:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZcontroL12 has reached the goal [Waterworld]
