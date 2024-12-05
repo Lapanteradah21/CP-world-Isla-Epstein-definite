@@ -701,3 +701,7 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:mossy_cobblestone
 [22:14:44] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type SandStone spawned at [ -592 | -3744 ], underground: false
 [22:18:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZcontroL12 has reached the goal [A self-respecting Soul]
 [22:20:29] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[22:21:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZcontroL12 drowned
+[22:21:44] [Server thread/INFO] [tombstone]: The last known grave of ZcontroL12 is at location [name:Last Grave, x:-348, y:17, z:-3774] in the dimension 0
+[22:21:44] [Server thread/INFO] [tombstone]: ZcontroL12 has successfully been saved
+[22:22:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZcontroL12 has reached the goal [Here They Come]

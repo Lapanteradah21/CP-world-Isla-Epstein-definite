@@ -29192,3 +29192,20 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:mossy_cobblestone
 [22:20:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [22:20:29] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
 [22:20:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:21:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:21:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZcontroL12 drowned
+[22:21:44] [Server thread/INFO] [tombstone]: The last known grave of ZcontroL12 is at location [name:Last Grave, x:-348, y:17, z:-3774] in the dimension 0
+[22:21:44] [Server thread/INFO] [tombstone]: ZcontroL12 has successfully been saved
+[22:22:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZcontroL12 has reached the goal [Here They Come]
+[22:22:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:23:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:23:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:24:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:25:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:26:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:26:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:27:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:28:26] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:29:11] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:29:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:30:41] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
