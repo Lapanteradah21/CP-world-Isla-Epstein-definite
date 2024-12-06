@@ -2787,6 +2787,12 @@
     },
     "done": true
   },
+  "spartanweaponry:boomerang": {
+    "criteria": {
+      "craft": "2024-12-06 23:29:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_the_recipe": "2024-11-27 02:22:30 +0000"
@@ -3048,6 +3054,12 @@
   "minecraft:recipes/decorations/light_blue_bed": {
     "criteria": {
       "has_the_recipe": "2024-11-27 02:22:30 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:battleaxe": {
+    "criteria": {
+      "craft": "2024-12-06 23:34:51 +0000"
     },
     "done": true
   },

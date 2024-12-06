@@ -28134,3 +28134,37 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:mossy_cobblestone
 [23:27:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [23:28:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [23:29:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZcontroL12 has made the advancement [It Comes Back?]
+[23:29:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:30:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:30:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:31:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:32:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:32:32] [Server thread/TRACE] [FML]: Handshake channel activating
+[23:32:32] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[23:32:32] [Server thread/DEBUG] [FML]:   Next: HELLO
+[23:32:32] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[23:32:32] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[23:32:32] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ModList:68 mods->FMLHandshakeServerState$2:HELLO
+[23:32:32] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 68 mods : wolfarmor@3.8.0,mowziesmobs@1.5.8,torchslabmod@v1.5.1,zawa@1.12.2-2.1.3,mca@6.1.0,creativecoredummy@1.0.0,jei@4.16.1.1012,powerdrop@1.0,betternether@0.1.8.6,ivtoolkit@1.3.3-1.12,bettercaves@1.12.2,waystones@4.1.0,mcp@9.42,artifacts@1.12.2-1.2.4,champions@1.12.2-1.0.11.10,bookshelf@2.3.590,llibrary@1.7.20,uteamcore@2.2.5.319,additionalstructures@2.5.0,waila@1.8.26,tlauncher_custom_cape_skin@1.4,carryon@1.12.3,fpsreducer@mc1.12.2-1.20,traverse@1.6.0,mysticalworld@1.12.2-1.11.0,usefulslime@1.2,ido@2.0.0-B,paraglider@1.0.1.5,forge@14.23.5.2860,mysticallib@1.12.2-1.13.0,malisisdoors@1.12.2-7.3.0,orelib@3.6.0.1,dsurround@@VERSION@,eplus@5.0.176,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,usefulbackpacks@1.5.4.85,undergroundbiomes@1.3.14,baubles@1.5.2,creativecore@1.10.0,battletowers@1.6.5,reccomplex@1.4.8.6,gvc@1.2.5,potioncore@1.9_for_1.12.2,quark@r1.6-179,patchouli@1.0-23.6,spartanshields@1.5.4,xaerominimap@24.5.0,mobsunscreen@@version@,qualitytools@1.0.7_for_1.12.2,securitycraft@v1.9.11,autoreglib@1.3-32,FML@8.0.99.99,obfuscate@0.4.2,tombstone@4.6.8,gottschcore@1.15.1,opframe@1.4.0,spartanweaponry@1.6.0,appleskin@1.0.14,cfm@6.3.0,xaerominimap_core@1.12.2-1.0,itemphysic@1.4.0,bookworm@1.12.2-2.5.2.1,xlfoodmod@1.12.2-1.9.2,speedyladders@1.1.3,bettermineshafts@1.12.2-2.2.1,xpbook@v2.0.1
+[23:32:32] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: WAITINGCACK
+[23:32:32] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[23:32:32] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: COMPLETE
+[23:32:40] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[23:32:40] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: DONE
+[23:32:40] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[23:32:40] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[23:32:40] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: charmder123[/127.173.58.70:49123] logged in with entity id 9575 at (-92.02403865856296, 80.0, 179.38905939495754)
+[23:32:40] [Server thread/INFO] [dsurround]: Player [charmder123] connected with Dynamic Surroundings @VERSION@
+[23:32:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: charmder123 joined the game
+[23:32:40] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[23:32:40] [Server thread/INFO] [Waila]: Player EntityPlayerMP['charmder123'/9575, l='world', x=-92.02, y=80.00, z=179.39] connected. Sending ping
+[23:33:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:33:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:34:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:34:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZcontroL12 has made the advancement [...And my Axe!]
+[23:35:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:36:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:36:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:37:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:38:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:39:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
