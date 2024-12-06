@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/christmas": {
+    "criteria": {
+      "coded_trigger": "2024-12-06 22:50:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_the_recipe": "2024-12-02 01:39:31 +0000"
@@ -794,6 +800,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_the_recipe": "2024-12-02 01:39:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/mysterious_gift": {
+    "criteria": {
+      "coded_trigger": "2024-12-06 22:50:46 +0000"
     },
     "done": true
   },
