@@ -515,6 +515,12 @@
     },
     "done": true
   },
+  "spartanweaponry:root": {
+    "criteria": {
+      "handle_in_inventory": "2024-12-06 23:20:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
     "criteria": {
       "has_the_recipe": "2024-11-27 02:22:30 +0000"
@@ -905,6 +911,12 @@
   "tombstone:tutorial/use_mercy": {
     "criteria": {
       "coded_trigger": "2024-12-05 22:18:58 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:crossbow": {
+    "criteria": {
+      "craft": "2024-12-06 23:21:24 +0000"
     },
     "done": true
   },
@@ -1814,6 +1826,12 @@
     },
     "done": true
   },
+  "spartanweaponry:quiver_light": {
+    "criteria": {
+      "quiver_arrow": "2024-12-06 23:22:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "has_the_recipe": "2024-11-27 02:22:30 +0000"
@@ -1841,6 +1859,12 @@
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_the_recipe": "2024-11-27 02:22:30 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:upgrade_quiver_max": {
+    "criteria": {
+      "quiver_arrow": "2024-12-06 23:22:31 +0000"
     },
     "done": true
   },
@@ -2517,6 +2541,12 @@
     },
     "done": true
   },
+  "spartanweaponry:longbow": {
+    "criteria": {
+      "craft": "2024-12-06 23:20:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_the_recipe": "2024-11-27 02:22:30 +0000"
@@ -2544,6 +2574,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_the_recipe": "2024-11-27 02:22:30 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:saber": {
+    "criteria": {
+      "craft": "2024-12-06 23:27:36 +0000"
     },
     "done": true
   },
