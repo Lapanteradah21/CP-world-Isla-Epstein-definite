@@ -28168,3 +28168,47 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:mossy_cobblestone
 [23:37:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [23:38:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [23:39:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:39:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:40:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:41:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:42:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:42:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:43:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:44:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:45:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:45:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:46:34] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:47:19] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:47:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: charmder123 has made the advancement [Ding Dong Ditch]
+[23:47:42] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[23:47:42] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[23:47:42] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[23:47:42] [Server thread/DEBUG] [bettercaves]: CAVE INFORMATION
+[23:47:42] [Server thread/DEBUG] [bettercaves]: --> MAX POSSIBLE THRESHOLD: 1.0
+[23:47:42] [Server thread/DEBUG] [bettercaves]: --> TOTAL PRIORITY: 15
+[23:47:42] [Server thread/DEBUG] [bettercaves]: --> TOTAL RANGE LENGTH: 2.0
+[23:47:42] [Server thread/DEBUG] [bettercaves]: --> CARVER
+[23:47:42] [Server thread/DEBUG] [bettercaves]:     --> RANGE FOUND: [-1.00, 0.33] (0.7890%) -- smooth cutoffs: [-0.29, 0.05]
+[23:47:42] [Server thread/DEBUG] [bettercaves]: --> CARVER
+[23:47:42] [Server thread/DEBUG] [bettercaves]:     --> RANGE FOUND: [0.33, 1.00] (0.2110%) -- smooth cutoffs: [0.42, 0.56]
+[23:47:42] [Server thread/DEBUG] [bettercaves]: CAVERN INFORMATION
+[23:47:42] [Server thread/DEBUG] [bettercaves]: --> SPAWN CHANCE SET TO: 0.25
+[23:47:42] [Server thread/DEBUG] [bettercaves]: --> TOTAL PRIORITY: 20
+[23:47:42] [Server thread/DEBUG] [bettercaves]: --> DEADZONE PERCENT: 0.75(0.75 TOTAL)
+[23:47:42] [Server thread/DEBUG] [bettercaves]: --> CARVER
+[23:47:42] [Server thread/DEBUG] [bettercaves]:     --> RANGE PERCENT LENGTH WANTED: 0.125
+[23:47:42] [Server thread/DEBUG] [bettercaves]:     --> RANGE FOUND: [-1.00, -0.45] (0.1272%) -- smooth cutoffs: [-0.61, -0.52]
+[23:47:42] [Server thread/DEBUG] [bettercaves]: --> CARVER
+[23:47:42] [Server thread/DEBUG] [bettercaves]:     --> RANGE PERCENT LENGTH WANTED: 0.125
+[23:47:42] [Server thread/DEBUG] [bettercaves]:     --> RANGE FOUND: [0.46, 0.76] (0.1260%) -- smooth cutoffs: [0.53, 0.62]
+[23:47:42] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[23:47:42] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[23:47:42] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[23:48:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZcontroL12 has reached the goal [Death Will Not Be Enough]
+[23:48:04] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:48:49] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:48:57] [Server thread/WARN] [FML]: Quark loaded a new chunk [-34, -221] in dimension 0 (overworld) while populating chunk [-33, -221], causing cascading worldgen lag.
+[23:48:57] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:48:57] [Server thread/WARN] [FML]: Quark loaded a new chunk [-35, -221] in dimension 0 (overworld) while populating chunk [-33, -221], causing cascading worldgen lag.
+[23:48:57] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:48:57] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2746ms behind, skipping 54 tick(s)

@@ -2841,6 +2841,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/use_preservation": {
+    "criteria": {
+      "coded_trigger": "2024-12-06 23:48:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "has_the_recipe": "2024-11-27 02:22:30 +0000"
