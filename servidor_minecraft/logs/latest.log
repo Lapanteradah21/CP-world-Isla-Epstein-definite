@@ -734,3 +734,15 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:mossy_cobblestone
 [20:33:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: charmder123 was blown up by Battletower Golem
 [20:33:16] [Server thread/INFO] [tombstone]: The last known grave of charmder123 is at location [name:Last Grave, x:-30, y:66, z:261] in the dimension 0
 [20:33:16] [Server thread/INFO] [tombstone]: charmder123 has successfully been saved
+[20:34:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: charmder123 blew up
+[20:34:17] [Server thread/INFO] [tombstone]: The last known grave of charmder123 is at location [name:Last Grave, x:-60, y:65, z:255] in the dimension 0
+[20:34:17] [Server thread/INFO] [tombstone]: charmder123 has successfully been saved
+[20:34:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: charmder123 has made the advancement [Diamonds!]
+[20:34:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <charmder123> se acabo
+[20:35:31] [Server thread/INFO] [mca]: Villager death: Duane. Caused by: inWall. UUID: f6a04bb6-524d-4d3e-9eda-438b649eef7d
+[20:41:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: charmder123 was shot by Skeleton
+[20:41:23] [Server thread/INFO] [tombstone]: The last known grave of charmder123 is at location [name:Last Grave, x:-112, y:78, z:177] in the dimension 0
+[20:41:23] [Server thread/INFO] [tombstone]: charmder123 has successfully been saved
+[20:42:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: charmder123 was slain by Zombie
+[20:42:59] [Server thread/INFO] [tombstone]: The last known grave of charmder123 is at location [name:Last Grave, x:-110, y:78, z:194] in the dimension 0
+[20:42:59] [Server thread/INFO] [tombstone]: charmder123 has successfully been saved

@@ -677,6 +677,7 @@
       "skeleton": "2024-12-02 01:52:10 +0000",
       "cave_spider": "2024-12-02 01:53:28 +0000",
       "zombie": "2024-12-02 02:02:51 +0000",
+      "silverfish": "2024-12-07 20:40:35 +0000",
       "witch": "2024-12-02 02:09:06 +0000",
       "spider": "2024-12-02 01:57:39 +0000",
       "creeper": "2024-12-02 20:36:33 +0000"
@@ -2271,6 +2272,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_the_recipe": "2024-12-02 01:39:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-07 20:34:50 +0000"
     },
     "done": true
   },
