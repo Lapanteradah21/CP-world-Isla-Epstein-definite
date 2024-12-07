@@ -24,3 +24,19 @@
 [01:08:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: charmder123 left the game
 [01:45:24] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ZcontroL12 lost connection: Disconnected
 [01:45:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZcontroL12 left the game
+[02:14:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[02:14:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[02:14:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[02:14:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[02:14:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[02:14:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[02:14:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/the_nether
+[02:14:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/the_end
+[02:14:09] [Server thread/INFO] [FML]: Unloading dimension 0
+[02:14:09] [Server thread/INFO] [FML]: Unloading dimension -1
+[02:14:09] [Server thread/INFO] [FML]: Unloading dimension 1
+[02:14:09] [Server thread/INFO] [STDOUT]: [exterminatorjeff.undergroundbiomes.intermod.OresRegistry:recheckPile:344]: Blocks queued for redo: 0
+[02:14:09] [Server thread/INFO] [undergroundbiomes]: [UndergroundBiomes] Server Stopped
+[02:14:09] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[02:14:09] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[02:14:09] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
