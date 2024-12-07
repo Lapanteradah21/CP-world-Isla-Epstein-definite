@@ -759,3 +759,11 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:mossy_cobblestone
 [20:55:09] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
 [20:55:09] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2002ms behind, skipping 40 tick(s)
 [21:01:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: charmder123 has made the advancement [Ice Bucket Challenge]
+[21:09:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZcontroL12 was slain by Ferrous Wroughtnaut
+[21:09:47] [Server thread/INFO] [tombstone]: The last known grave of ZcontroL12 is at location [name:Last Grave, x:-176, y:53, z:-3440] in the dimension 0
+[21:09:47] [Server thread/INFO] [tombstone]: ZcontroL12 has successfully been saved
+[21:11:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZcontroL12 was slain by Ferrous Wroughtnaut
+[21:11:53] [Server thread/INFO] [tombstone]: The last known grave of ZcontroL12 is at location [name:Last Grave, x:-172, y:53, z:-3440] in the dimension 0
+[21:11:53] [Server thread/INFO] [tombstone]: ZcontroL12 has successfully been saved
+[21:11:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZcontroL12 has made the advancement [The Most Useful Key]
+[21:12:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZcontroL12 has reached the goal [A Fast Comeback]

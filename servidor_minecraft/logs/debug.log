@@ -31041,3 +31041,24 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:mossy_cobblestone
 [21:03:25] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
 [21:03:25] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
 [21:03:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:04:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:05:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:05:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:06:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:07:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:08:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:08:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:09:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:09:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZcontroL12 was slain by Ferrous Wroughtnaut
+[21:09:47] [Server thread/INFO] [tombstone]: The last known grave of ZcontroL12 is at location [name:Last Grave, x:-176, y:53, z:-3440] in the dimension 0
+[21:09:47] [Server thread/INFO] [tombstone]: ZcontroL12 has successfully been saved
+[21:10:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:11:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:11:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:11:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZcontroL12 was slain by Ferrous Wroughtnaut
+[21:11:53] [Server thread/INFO] [tombstone]: The last known grave of ZcontroL12 is at location [name:Last Grave, x:-172, y:53, z:-3440] in the dimension 0
+[21:11:53] [Server thread/INFO] [tombstone]: ZcontroL12 has successfully been saved
+[21:11:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZcontroL12 has made the advancement [The Most Useful Key]
+[21:12:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZcontroL12 has reached the goal [A Fast Comeback]
+[21:12:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:13:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
