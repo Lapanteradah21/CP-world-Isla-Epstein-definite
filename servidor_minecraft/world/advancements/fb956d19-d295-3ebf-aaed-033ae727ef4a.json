@@ -795,6 +795,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/create_strange_scroll": {
+    "criteria": {
+      "has_strange_scroll": "2024-12-07 20:50:24 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_barako": {
     "criteria": {
       "barako": "2024-12-04 22:12:58 +0000"
@@ -2827,6 +2833,12 @@
   "minecraft:recipes/building_blocks/pink_stained_hardened_clay": {
     "criteria": {
       "has_the_recipe": "2024-11-27 02:22:30 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_strange_scroll": {
+    "criteria": {
+      "has_ingredient": "2024-12-07 20:50:24 +0000"
     },
     "done": true
   },

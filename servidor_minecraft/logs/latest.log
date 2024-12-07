@@ -746,3 +746,8 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:mossy_cobblestone
 [20:42:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: charmder123 was slain by Zombie
 [20:42:59] [Server thread/INFO] [tombstone]: The last known grave of charmder123 is at location [name:Last Grave, x:-110, y:78, z:194] in the dimension 0
 [20:42:59] [Server thread/INFO] [tombstone]: charmder123 has successfully been saved
+[20:43:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: charmder123 was shot by Skeleton
+[20:43:46] [Server thread/INFO] [tombstone]: The last known grave of charmder123 is at location [name:Last Grave, x:-114, y:78, z:193] in the dimension 0
+[20:43:46] [Server thread/INFO] [tombstone]: charmder123 has successfully been saved
+[20:50:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZcontroL12 has made the advancement [Not Even Double-Sided]
+[20:53:37] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
