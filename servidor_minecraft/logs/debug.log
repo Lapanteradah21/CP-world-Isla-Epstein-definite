@@ -30146,3 +30146,44 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:mossy_cobblestone
 [20:21:49] [Server thread/INFO] [tombstone]: charmder123 has successfully been saved
 [20:22:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [20:23:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:23:24] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[20:23:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:24:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: charmder123 was slain by Battletower Golem
+[20:24:05] [Server thread/INFO] [tombstone]: The last known grave of charmder123 is at location [name:Last Grave, x:-39, y:64, z:255] in the dimension 0
+[20:24:05] [Server thread/INFO] [tombstone]: charmder123 has successfully been saved
+[20:24:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:25:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: charmder123 was slain by Battletower Golem
+[20:25:10] [Server thread/INFO] [tombstone]: The last known grave of charmder123 is at location [name:Last Grave, x:-49, y:64, z:257] in the dimension 0
+[20:25:10] [Server thread/INFO] [tombstone]: charmder123 has successfully been saved
+[20:25:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:26:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:26:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: charmder123 was slain by Battletower Golem
+[20:26:17] [Server thread/INFO] [tombstone]: The last known grave of charmder123 is at location [name:Last Grave, x:-48, y:64, z:258] in the dimension 0
+[20:26:17] [Server thread/INFO] [tombstone]: charmder123 has successfully been saved
+[20:26:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:27:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: charmder123 was slain by Battletower Golem
+[20:27:29] [Server thread/INFO] [tombstone]: The last known grave of charmder123 is at location [name:Last Grave, x:-55, y:64, z:257] in the dimension 0
+[20:27:29] [Server thread/INFO] [tombstone]: charmder123 has successfully been saved
+[20:27:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:28:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: charmder123 was slain by Battletower Golem
+[20:28:08] [Server thread/INFO] [tombstone]: The last known grave of charmder123 is at location [name:Last Grave, x:-68, y:64, z:259] in the dimension 0
+[20:28:08] [Server thread/INFO] [tombstone]: charmder123 has successfully been saved
+[20:28:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:28:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: charmder123 was slain by Battletower Golem
+[20:28:53] [Server thread/INFO] [tombstone]: The last known grave of charmder123 is at location [name:Last Grave, x:-43, y:65, z:265] in the dimension 0
+[20:28:53] [Server thread/INFO] [tombstone]: charmder123 has successfully been saved
+[20:29:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:29:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:30:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:30:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: charmder123 was blown up by Battletower Golem
+[20:30:46] [Server thread/INFO] [tombstone]: The last known grave of charmder123 is at location [name:Last Grave, x:-25, y:66, z:244] in the dimension 0
+[20:30:46] [Server thread/INFO] [tombstone]: charmder123 has successfully been saved
+[20:31:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:32:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:32:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: charmder123 blew up
+[20:32:14] [Server thread/INFO] [tombstone]: The last known grave of charmder123 is at location [name:Last Grave, x:-34, y:64, z:246] in the dimension 0
+[20:32:14] [Server thread/INFO] [tombstone]: charmder123 has successfully been saved
+[20:32:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:33:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: charmder123 was blown up by Battletower Golem
+[20:33:16] [Server thread/INFO] [tombstone]: The last known grave of charmder123 is at location [name:Last Grave, x:-30, y:66, z:261] in the dimension 0
+[20:33:16] [Server thread/INFO] [tombstone]: charmder123 has successfully been saved
