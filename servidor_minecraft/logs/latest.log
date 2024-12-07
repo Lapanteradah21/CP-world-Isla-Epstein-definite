@@ -767,3 +767,31 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:mossy_cobblestone
 [21:11:53] [Server thread/INFO] [tombstone]: ZcontroL12 has successfully been saved
 [21:11:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZcontroL12 has made the advancement [The Most Useful Key]
 [21:12:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZcontroL12 has reached the goal [A Fast Comeback]
+[21:15:16] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-23, 34] in dimension 0 (overworld) while populating chunk [-22, 35], causing cascading worldgen lag.
+[21:15:16] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:15:16] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ -352 | 560 ], underground: false
+[21:16:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZcontroL12 has completed the challenge [The Bigger They Are...]
+[21:17:38] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing JungleTreeHuge1
+[21:17:38] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-26, 14] in dimension 0 (overworld) while populating chunk [-26, 13], causing cascading worldgen lag.
+[21:17:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:17:38] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing JungleTreeHuge
+[21:17:38] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-26, 12] in dimension 0 (overworld) while populating chunk [-26, 13], causing cascading worldgen lag.
+[21:17:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:17:39] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing JungleTreeHuge
+[21:17:39] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-27, 12] in dimension 0 (overworld) while populating chunk [-26, 13], causing cascading worldgen lag.
+[21:17:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:17:39] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing JungleTreeHuge1
+[21:17:39] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-27, 13] in dimension 0 (overworld) while populating chunk [-26, 13], causing cascading worldgen lag.
+[21:17:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:17:39] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while placing JungleTreeHuge1
+[21:17:39] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [-27, 14] in dimension 0 (overworld) while populating chunk [-26, 13], causing cascading worldgen lag.
+[21:17:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:19:19] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-34, 11] in dimension 0 (overworld) while populating chunk [-33, 12], causing cascading worldgen lag.
+[21:19:19] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:19:19] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-34, 17] in dimension 0 (overworld) while populating chunk [-33, 18], causing cascading worldgen lag.
+[21:19:19] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:19:37] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-32, 24] in dimension 0 (overworld) while populating chunk [-31, 25], causing cascading worldgen lag.
+[21:19:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:19:37] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ -480 | 400 ], underground: false
+[21:21:50] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: charmder123 lost connection: Disconnected
+[21:21:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: charmder123 left the game
