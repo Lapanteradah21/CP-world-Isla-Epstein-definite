@@ -533,6 +533,12 @@
     },
     "done": true
   },
+  "cfm:gardening": {
+    "criteria": {
+      "get_outdoor_furniture": "2024-12-07 00:42:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_the_recipe": "2024-12-02 01:39:31 +0000"
@@ -776,6 +782,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2024-12-02 01:39:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:place_tree": {
+    "criteria": {
+      "place_tree": "2024-12-07 00:47:01 +0000"
     },
     "done": true
   },
@@ -1919,6 +1931,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "bred_chicken": "2024-12-07 00:47:33 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_the_recipe": "2024-12-02 01:39:31 +0000"
@@ -2780,6 +2798,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_the_recipe": "2024-12-02 01:39:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred_chicken": "2024-12-07 00:47:33 +0000"
     },
     "done": true
   },
