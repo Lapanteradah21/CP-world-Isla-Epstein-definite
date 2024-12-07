@@ -32531,3 +32531,95 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:mossy_cobblestone
 [21:22:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [21:23:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [21:23:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:24:10] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:24:10] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:24:10] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:24:10] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:24:10] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:24:10] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:24:10] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:24:10] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:24:10] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:24:10] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[21:24:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:25:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:26:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:26:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:27:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:28:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:29:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:29:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:30:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:31:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:32:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:32:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:33:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:34:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:35:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:35:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:36:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:37:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:38:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:38:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:39:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:40:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:41:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:41:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:42:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:43:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:44:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:44:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:44:48] [Server thread/TRACE] [reccomplex]: Structure 'SavannaTree1' canceled generation at [-567, -3346] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@7b33f0
+[21:44:48] [Server thread/TRACE] [reccomplex]: Structure 'Mopane' canceled generation at [-555, -3343] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@7b33f0
+[21:44:48] [Server thread/TRACE] [reccomplex]: Structure 'Fiberpalm' canceled generation at [-557, -3341] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@7b33f0
+[21:44:48] [Server thread/TRACE] [reccomplex]: Structure 'Fiberpalm' canceled generation at [-567, -3350] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@7b33f0
+[21:44:48] [Server thread/TRACE] [reccomplex]: Structure 'SavannaTree1' canceled generation at [-560, -3342] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@7b33f0
+[21:45:05] [Server thread/TRACE] [reccomplex]: Structure 'SavannaTree1' canceled generation at [-569, -3324] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@7b33f0
+[21:45:05] [Server thread/TRACE] [reccomplex]: Structure 'Mopane' canceled generation at [-581, -3330] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@7b33f0
+[21:45:05] [Server thread/TRACE] [reccomplex]: Structure 'SavannaTree' canceled generation at [-581, -3330] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@7b33f0
+[21:45:05] [Server thread/TRACE] [reccomplex]: Structure 'Mopane' canceled generation at [-569, -3329] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@7b33f0
+[21:45:05] [Server thread/TRACE] [reccomplex]: Structure 'Fiberpalm' canceled generation at [-579, -3336] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@7b33f0
+[21:45:19] [Server thread/TRACE] [reccomplex]: Structure 'Fiberpalm' canceled generation at [-587, -3335] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@7b33f0
+[21:45:19] [Server thread/TRACE] [reccomplex]: Generated structure 'Fiberpalm' in StructureBoundingBox{x0=-600, y0=64, z0=-3327, x1=-590, y1=77, z1=-3317} (0)
+[21:45:19] [Server thread/TRACE] [reccomplex]: Structure 'SavannaTree' canceled generation at [-598, -3309] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@7b33f0
+[21:45:19] [Server thread/TRACE] [reccomplex]: Structure 'SavannaTree' canceled generation at [-600, -3317] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@7b33f0
+[21:45:19] [Server thread/TRACE] [reccomplex]: Structure 'Mopane' canceled generation at [-588, -3314] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@7b33f0
+[21:45:19] [Server thread/TRACE] [reccomplex]: Structure 'Mopane' canceled generation at [-589, -3309] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@7b33f0
+[21:45:19] [Server thread/TRACE] [reccomplex]: Structure 'Fiberpalm' canceled generation at [-593, -3305] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@7b33f0
+[21:45:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:46:02] [Server thread/TRACE] [reccomplex]: Structure 'SavannaTree' canceled generation at [-618, -3321] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@7b33f0
+[21:46:02] [Server thread/TRACE] [reccomplex]: Structure 'Mopane' canceled generation at [-630, -3322] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@7b33f0
+[21:46:02] [Server thread/TRACE] [reccomplex]: Structure 'Mopane' canceled generation at [-630, -3323] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@7b33f0
+[21:46:02] [Server thread/TRACE] [reccomplex]: Structure 'SavannaTree' canceled generation at [-622, -3333] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@7b33f0
+[21:46:02] [Server thread/TRACE] [reccomplex]: Structure 'SavannaTree' canceled generation at [-625, -3336] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@7b33f0
+[21:46:09] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-43, -223] in dimension 0 (overworld) while populating chunk [-42, -222], causing cascading worldgen lag.
+[21:46:09] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:46:09] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type SandStone spawned at [ -672 | -3552 ], underground: true
+[21:46:10] [Server thread/TRACE] [reccomplex]: Structure 'SavannaTree' canceled generation at [-655, -3272] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@7b33f0
+[21:46:10] [Server thread/TRACE] [reccomplex]: Generated structure 'Mopane' in StructureBoundingBox{x0=-669, y0=62, z0=-3276, x1=-657, y1=74, z1=-3265} (0)
+[21:46:13] [Server thread/TRACE] [reccomplex]: Structure 'SavannaTree' canceled generation at [-668, -3269] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@7b33f0
+[21:46:13] [Server thread/TRACE] [reccomplex]: Generated structure 'Mopane' in StructureBoundingBox{x0=-684, y0=63, z0=-3268, x1=-673, y1=75, z1=-3256} (0)
+[21:46:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:46:25] [Server thread/TRACE] [reccomplex]: StoneLeafMound failed to spawn at [-688, -3384] (incompatible biome edge)
+[21:46:31] [Server thread/TRACE] [reccomplex]: Structure 'SavannaTree1' canceled generation at [-707, -3283] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@7b33f0
+[21:46:31] [Server thread/TRACE] [reccomplex]: Structure 'SavannaTree' canceled generation at [-703, -3281] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@7b33f0
+[21:46:31] [Server thread/TRACE] [reccomplex]: Generated structure 'Mopane' in StructureBoundingBox{x0=-703, y0=65, z0=-3283, x1=-692, y1=77, z1=-3271} (0)
+[21:46:31] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-45, -211] in dimension 0 (overworld) while populating chunk [-45, -210], causing cascading worldgen lag.
+[21:46:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:46:31] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-46, -211] in dimension 0 (overworld) while populating chunk [-45, -210], causing cascading worldgen lag.
+[21:46:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:46:31] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ -720 | -3360 ], underground: false
+[21:46:31] [Server thread/WARN] [FML]: MalisisCore loaded a new chunk [-47, -216] in dimension 0 (overworld) while populating chunk [-45, -215], causing cascading worldgen lag.
+[21:46:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:47:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:47:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:48:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:49:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:50:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:50:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:51:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:52:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:53:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:53:41] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ZcontroL12 lost connection: Disconnected
+[21:53:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZcontroL12 left the game
+[21:53:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world

@@ -795,3 +795,15 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:mossy_cobblestone
 [21:19:37] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStone spawned at [ -480 | 400 ], underground: false
 [21:21:50] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: charmder123 lost connection: Disconnected
 [21:21:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: charmder123 left the game
+[21:46:09] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-43, -223] in dimension 0 (overworld) while populating chunk [-42, -222], causing cascading worldgen lag.
+[21:46:09] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:46:09] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type SandStone spawned at [ -672 | -3552 ], underground: true
+[21:46:31] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-45, -211] in dimension 0 (overworld) while populating chunk [-45, -210], causing cascading worldgen lag.
+[21:46:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:46:31] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-46, -211] in dimension 0 (overworld) while populating chunk [-45, -210], causing cascading worldgen lag.
+[21:46:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:46:31] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ -720 | -3360 ], underground: false
+[21:46:31] [Server thread/WARN] [FML]: MalisisCore loaded a new chunk [-47, -216] in dimension 0 (overworld) while populating chunk [-45, -215], causing cascading worldgen lag.
+[21:46:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[21:53:41] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ZcontroL12 lost connection: Disconnected
+[21:53:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZcontroL12 left the game
