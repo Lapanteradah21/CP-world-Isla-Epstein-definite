@@ -30092,3 +30092,36 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:mossy_cobblestone
 [00:07:45] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
 [00:08:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [00:09:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:09:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:10:05] [Server thread/TRACE] [reccomplex]: Structure 'SavannaTree' canceled generation at [-514, -3342] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@4e448531
+[00:10:05] [Server thread/TRACE] [reccomplex]: Structure 'SavannaTree1' canceled generation at [-505, -3348] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@4e448531
+[00:10:05] [Server thread/TRACE] [reccomplex]: Structure 'SavannaTree' canceled generation at [-518, -3352] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@4e448531
+[00:10:05] [Server thread/TRACE] [reccomplex]: Structure 'SavannaTree1' canceled generation at [-509, -3344] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@4e448531
+[00:10:05] [Server thread/TRACE] [reccomplex]: Structure 'SavannaTree' canceled generation at [-518, -3352] (0): ivorius.reccomplex.world.gen.feature.StructureGenerator$GenerationResult$Failure@4e448531
+[00:10:05] [Server thread/TRACE] [reccomplex]: Generated structure 'SpiderPit' in StructureBoundingBox{x0=-521, y0=103, z0=-3360, x1=-511, y1=111, z1=-3351} (0)
+[00:10:34] [Server thread/TRACE] [reccomplex]: Generated structure 'SpruceTree3' in StructureBoundingBox{x0=-65, y0=75, z0=141, x1=-61, y1=84, z1=145} (0)
+[00:10:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:11:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:12:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:12:36] [Server thread/TRACE] [reccomplex]: Generated structure 'SpruceTree3' in StructureBoundingBox{x0=-62, y0=73, z0=160, x1=-58, y1=82, z1=164} (0)
+[00:12:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:13:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:13:59] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:13:59] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:13:59] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:14:00] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:14:00] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:14:00] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:14:00] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:14:00] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:14:00] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:14:00] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[00:14:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:15:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:15:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:16:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:16:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZcontroL12 has reached the goal [A little cleaning is necessary]
+[00:17:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:18:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:18:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:19:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
