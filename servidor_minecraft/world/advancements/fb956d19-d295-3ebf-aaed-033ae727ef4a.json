@@ -909,6 +909,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/find_exploration": {
+    "criteria": {
+      "coded_trigger": "2024-12-08 23:25:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2024-11-27 02:22:30 +0000"

@@ -680,3 +680,5 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:mossy_cobblestone
 [23:06:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ZcontroL12 moved wrongly!
 [23:08:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ZcontroL12 moved wrongly!
 [23:13:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZcontroL12 has reached the goal [The treasure is at hand]
+[23:25:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZcontroL12 has reached the goal [Land Exploration]
+[23:29:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [ZcontroL12: Game rule commandBlockOutput has been updated to false]
