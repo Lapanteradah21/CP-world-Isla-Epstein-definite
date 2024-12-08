@@ -27791,3 +27791,17 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:mossy_cobblestone
 [21:50:16] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
 [21:50:16] [Server thread/INFO] [Quark ASM]: Located patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerWorkbench.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
 [21:50:16] [Server thread/INFO] [Quark ASM]: Patch result: true
+[21:50:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:51:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:52:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:53:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:53:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:54:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:55:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:56:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:56:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:57:30] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:58:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:59:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:59:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:00:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: ZcontroL12 moved wrongly!
