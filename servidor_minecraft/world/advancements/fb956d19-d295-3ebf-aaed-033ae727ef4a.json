@@ -2844,6 +2844,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-09 00:12:13 +0000"
+    },
+    "done": true
+  },
   "tombstone:tutorial/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2024-12-02 21:10:51 +0000"

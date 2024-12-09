@@ -45,3 +45,20 @@
 [00:11:19] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [00:11:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZcontroL12 has made the advancement [A Terrible Fortress]
 [00:12:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZcontroL12 has made the advancement [Into Fire]
+[00:14:35] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while generating NetherThorn4
+[00:14:35] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [0, 0] in dimension -1 (the_nether) while populating chunk [8, -17], causing cascading worldgen lag.
+[00:14:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:15:17] [Server thread/INFO] [FML]: Unloading dimension -1
+[00:17:22] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: ZcontroL12 lost connection: Disconnected
+[00:17:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ZcontroL12 left the game
+[00:17:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[00:17:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[00:17:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[00:17:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[00:17:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[00:17:25] [Server thread/INFO] [FML]: Unloading dimension 0
+[00:17:25] [Server thread/INFO] [STDOUT]: [exterminatorjeff.undergroundbiomes.intermod.OresRegistry:recheckPile:344]: Blocks queued for redo: 0
+[00:17:25] [Server thread/INFO] [undergroundbiomes]: [UndergroundBiomes] Server Stopped
+[00:17:25] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[00:17:25] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[00:17:25] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
