@@ -716,9 +716,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "wither_skeleton": "2024-12-09 00:10:09 +0000",
       "zombie_villager": "2024-12-05 21:08:02 +0000",
       "skeleton": "2024-12-01 20:51:12 +0000",
       "husk": "2024-12-01 20:49:18 +0000",
+      "blaze": "2024-12-09 00:11:35 +0000",
       "zombie": "2024-12-01 21:15:03 +0000",
       "cave_spider": "2024-12-03 21:46:30 +0000",
       "silverfish": "2024-12-07 00:37:10 +0000",
@@ -1755,6 +1757,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-09 00:09:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_bed": {
     "criteria": {
       "has_the_recipe": "2024-11-27 02:22:30 +0000"
@@ -2338,6 +2346,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-09 00:09:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_the_recipe": "2024-11-27 02:22:30 +0000"
@@ -2563,6 +2577,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_the_recipe": "2024-11-27 02:22:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-12-09 00:11:21 +0000"
     },
     "done": true
   },
