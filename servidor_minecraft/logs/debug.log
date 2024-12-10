@@ -28189,3 +28189,57 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:mossy_cobblestone
 
 [20:57:11] [Server thread/DEBUG] [FML]: The world 482d6b3a (world) may have leaked: seen 355 times.
 
+[20:57:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:58:01] [Server thread/DEBUG] [FML]: The world 70bacfb1 (world) may have leaked: seen 360 times.
+
+[20:58:01] [Server thread/DEBUG] [FML]: The world 482d6b3a (world) may have leaked: seen 360 times.
+
+[20:58:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:58:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:58:51] [Server thread/DEBUG] [FML]: The world 70bacfb1 (world) may have leaked: seen 365 times.
+
+[20:58:51] [Server thread/DEBUG] [FML]: The world 482d6b3a (world) may have leaked: seen 365 times.
+
+[20:59:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:59:41] [Server thread/DEBUG] [FML]: The world 70bacfb1 (world) may have leaked: seen 370 times.
+
+[20:59:41] [Server thread/DEBUG] [FML]: The world 482d6b3a (world) may have leaked: seen 370 times.
+
+[21:00:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:00:31] [Server thread/DEBUG] [FML]: The world 70bacfb1 (world) may have leaked: seen 375 times.
+
+[21:00:31] [Server thread/DEBUG] [FML]: The world 482d6b3a (world) may have leaked: seen 375 times.
+
+[21:01:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:01:21] [Server thread/DEBUG] [FML]: The world 70bacfb1 (world) may have leaked: seen 380 times.
+
+[21:01:21] [Server thread/DEBUG] [FML]: The world 482d6b3a (world) may have leaked: seen 380 times.
+
+[21:01:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:02:11] [Server thread/DEBUG] [FML]: The world 70bacfb1 (world) may have leaked: seen 385 times.
+
+[21:02:11] [Server thread/DEBUG] [FML]: The world 482d6b3a (world) may have leaked: seen 385 times.
+
+[21:02:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:03:01] [Server thread/DEBUG] [FML]: The world 70bacfb1 (world) may have leaked: seen 390 times.
+
+[21:03:01] [Server thread/DEBUG] [FML]: The world 482d6b3a (world) may have leaked: seen 390 times.
+
+[21:03:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:03:51] [Server thread/DEBUG] [FML]: The world 70bacfb1 (world) may have leaked: seen 395 times.
+
+[21:03:51] [Server thread/DEBUG] [FML]: The world 482d6b3a (world) may have leaked: seen 395 times.
+
+[21:04:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:04:41] [Server thread/DEBUG] [FML]: The world 482d6b3a (world) may have leaked: seen 400 times.
+
+[21:04:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:05:31] [Server thread/DEBUG] [FML]: The world 482d6b3a (world) may have leaked: seen 405 times.
+
+[21:05:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:06:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:06:21] [Server thread/DEBUG] [FML]: The world 482d6b3a (world) may have leaked: seen 410 times.
+
+[21:07:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:07:11] [Server thread/DEBUG] [FML]: The world 482d6b3a (world) may have leaked: seen 415 times.
+
