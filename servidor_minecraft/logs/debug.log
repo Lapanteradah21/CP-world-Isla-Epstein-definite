@@ -29456,3 +29456,49 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:mossy_cobblestone
 [01:18:51] [Server thread/DEBUG] [FML]: The world 482d6b3a (world) may have leaked: seen 1925 times.
 
 [01:19:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:19:41] [Server thread/DEBUG] [FML]: The world 482d6b3a (world) may have leaked: seen 1930 times.
+
+[01:19:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:20:31] [Server thread/DEBUG] [FML]: The world 482d6b3a (world) may have leaked: seen 1935 times.
+
+[01:20:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:21:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:21:21] [Server thread/DEBUG] [FML]: The world 482d6b3a (world) may have leaked: seen 1940 times.
+
+[01:22:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:22:11] [Server thread/DEBUG] [FML]: The world 482d6b3a (world) may have leaked: seen 1945 times.
+
+[01:22:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:23:01] [Server thread/DEBUG] [FML]: The world 482d6b3a (world) may have leaked: seen 1950 times.
+
+[01:23:10] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[01:23:11] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[01:23:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: charmder123 was slain by Mimic
+[01:23:12] [Server thread/INFO] [tombstone]: The last known grave of charmder123 is at location [name:Last Grave, x:47, y:22, z:22] in the dimension 0
+[01:23:12] [Server thread/INFO] [tombstone]: charmder123 has successfully been saved
+[01:23:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:23:51] [Server thread/DEBUG] [FML]: The world 482d6b3a (world) may have leaked: seen 1955 times.
+
+[01:24:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:24:41] [Server thread/DEBUG] [FML]: The world 482d6b3a (world) may have leaked: seen 1960 times.
+
+[01:25:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:25:31] [Server thread/DEBUG] [FML]: The world 482d6b3a (world) may have leaked: seen 1965 times.
+
+[01:25:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:26:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: charmder123 was shot by Skeleton
+[01:26:15] [Server thread/INFO] [tombstone]: The last known grave of charmder123 is at location [name:Last Grave, x:33, y:16, z:19] in the dimension 0
+[01:26:15] [Server thread/INFO] [tombstone]: charmder123 has successfully been saved
+[01:26:21] [Server thread/DEBUG] [FML]: The world 482d6b3a (world) may have leaked: seen 1970 times.
+
+[01:26:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:27:11] [Server thread/DEBUG] [FML]: The world 482d6b3a (world) may have leaked: seen 1975 times.
+
+[01:27:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:28:01] [Server thread/DEBUG] [FML]: The world 482d6b3a (world) may have leaked: seen 1980 times.
+
+[01:28:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:28:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: charmder123 has made the advancement [Sobriety Test]
+[01:28:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:28:51] [Server thread/DEBUG] [FML]: The world 482d6b3a (world) may have leaked: seen 1985 times.
+

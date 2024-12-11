@@ -1853,6 +1853,12 @@
     },
     "done": true
   },
+  "mysticalworld:amethyst": {
+    "criteria": {
+      "book": "2024-12-11 01:28:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2024-12-02 01:39:31 +0000"
