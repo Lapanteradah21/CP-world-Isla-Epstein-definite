@@ -664,3 +664,14 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:mossy_cobblestone
 [01:08:50] [Server thread/INFO] [Quark ASM]: Patch result: true
 [01:08:52] [Server thread/INFO] [FML]: Unloading dimension -1
 [01:08:52] [Server thread/INFO] [FML]: Unloading dimension 1
+[03:19:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[03:19:13] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[03:19:13] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[03:19:13] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[03:19:13] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[03:19:13] [Server thread/INFO] [FML]: Unloading dimension 0
+[03:19:13] [Server thread/INFO] [STDOUT]: [exterminatorjeff.undergroundbiomes.intermod.OresRegistry:recheckPile:344]: Blocks queued for redo: 0
+[03:19:13] [Server thread/INFO] [undergroundbiomes]: [UndergroundBiomes] Server Stopped
+[03:19:13] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[03:19:13] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[03:19:13] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
