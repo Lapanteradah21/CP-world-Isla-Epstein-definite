@@ -719,3 +719,17 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:mossy_cobblestone
 [03:22:51] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-55, -226] in dimension 0 (overworld) while populating chunk [-54, -225], causing cascading worldgen lag.
 [03:22:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [03:22:51] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ -864 | -3600 ], underground: false
+[03:42:37] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-62, -236] in dimension 0 (overworld) while populating chunk [-62, -235], causing cascading worldgen lag.
+[03:42:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:42:37] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-63, -236] in dimension 0 (overworld) while populating chunk [-62, -235], causing cascading worldgen lag.
+[03:42:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:42:37] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ -992 | -3760 ], underground: true
+[03:43:11] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while generating UndergroundTreeoid
+[03:43:11] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [0, -1] in dimension 0 (overworld) while populating chunk [-64, -217], causing cascading worldgen lag.
+[03:43:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:43:11] [Server thread/WARN] [reccomplex]: Cascading chunk generation happening while pre-complementing UndergroundTreeoid
+[03:43:11] [Server thread/WARN] [FML]: Recurrent Complex loaded a new chunk [0, 0] in dimension 0 (overworld) while populating chunk [-64, -217], causing cascading worldgen lag.
+[03:43:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:43:11] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-65, -218] in dimension 0 (overworld) while populating chunk [-64, -217], causing cascading worldgen lag.
+[03:43:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:43:11] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ -1024 | -3472 ], underground: false
