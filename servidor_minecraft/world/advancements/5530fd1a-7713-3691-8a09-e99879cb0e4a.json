@@ -1270,6 +1270,12 @@
     },
     "done": true
   },
+  "spartanweaponry:explode_creeper": {
+    "criteria": {
+      "killed_skeleton": "2024-12-16 01:20:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_carpet": {
     "criteria": {
       "has_the_recipe": "2024-12-02 01:39:31 +0000"

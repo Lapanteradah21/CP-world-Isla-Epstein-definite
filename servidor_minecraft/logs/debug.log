@@ -27929,3 +27929,139 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:mossy_cobblestone
 
 [01:14:47] [Server thread/DEBUG] [FML]: The world 287275b2 (world) may have leaked: seen 50 times.
 
+[01:15:28] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:15:37] [Server thread/DEBUG] [FML]: The world 493d8c30 (world) may have leaked: seen 55 times.
+
+[01:15:37] [Server thread/DEBUG] [FML]: The world 287275b2 (world) may have leaked: seen 55 times.
+
+[01:15:55] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[01:15:55] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[01:15:55] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[01:15:56] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[01:15:56] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[01:16:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:16:27] [Server thread/DEBUG] [FML]: The world 493d8c30 (world) may have leaked: seen 60 times.
+
+[01:16:27] [Server thread/DEBUG] [FML]: The world 287275b2 (world) may have leaked: seen 60 times.
+
+[01:16:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:17:17] [Server thread/DEBUG] [FML]: The world 493d8c30 (world) may have leaked: seen 65 times.
+
+[01:17:17] [Server thread/DEBUG] [FML]: The world 287275b2 (world) may have leaked: seen 65 times.
+
+[01:17:42] [Server thread/TRACE] [FML]: Handshake channel activating
+[01:17:42] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[01:17:42] [Server thread/DEBUG] [FML]:   Next: HELLO
+[01:17:42] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[01:17:42] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[01:17:42] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ModList:68 mods->FMLHandshakeServerState$2:HELLO
+[01:17:42] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 68 mods : wolfarmor@3.8.0,mowziesmobs@1.5.8,torchslabmod@v1.5.1,zawa@1.12.2-2.1.3,mca@6.1.0,creativecoredummy@1.0.0,jei@4.16.1.1012,powerdrop@1.0,betternether@0.1.8.6,ivtoolkit@1.3.3-1.12,bettercaves@1.12.2,waystones@4.1.0,mcp@9.42,artifacts@1.12.2-1.2.4,champions@1.12.2-1.0.11.10,bookshelf@2.3.590,llibrary@1.7.20,uteamcore@2.2.5.319,additionalstructures@2.5.0,waila@1.8.26,tlauncher_custom_cape_skin@1.4,carryon@1.12.3,fpsreducer@mc1.12.2-1.20,traverse@1.6.0,mysticalworld@1.12.2-1.11.0,usefulslime@1.2,ido@2.0.0-B,paraglider@1.0.1.5,forge@14.23.5.2860,mysticallib@1.12.2-1.13.0,malisisdoors@1.12.2-7.3.0,orelib@3.6.0.1,dsurround@@VERSION@,eplus@5.0.176,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,usefulbackpacks@1.5.4.85,undergroundbiomes@1.3.14,baubles@1.5.2,creativecore@1.10.0,battletowers@1.6.5,reccomplex@1.4.8.6,gvc@1.2.5,potioncore@1.9_for_1.12.2,quark@r1.6-179,patchouli@1.0-23.6,spartanshields@1.5.4,xaerominimap@24.5.0,mobsunscreen@@version@,qualitytools@1.0.7_for_1.12.2,securitycraft@v1.9.11,autoreglib@1.3-32,FML@8.0.99.99,obfuscate@0.4.2,tombstone@4.6.8,gottschcore@1.15.1,opframe@1.4.0,spartanweaponry@1.6.0,appleskin@1.0.14,cfm@6.3.0,xaerominimap_core@1.12.2-1.0,itemphysic@1.4.0,bookworm@1.12.2-2.5.2.1,xlfoodmod@1.12.2-1.9.2,speedyladders@1.1.3,bettermineshafts@1.12.2-2.2.1,xpbook@v2.0.1
+[01:17:42] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: WAITINGCACK
+[01:17:42] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[01:17:42] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: COMPLETE
+[01:17:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:17:46] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[01:17:46] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: DONE
+[01:17:46] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[01:17:46] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:17:46] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: charmder123[/127.173.58.70:54753] logged in with entity id 5251 at (55.98157050528888, 29.0, 81.89962303389045)
+[01:17:46] [Server thread/INFO] [dsurround]: Player [charmder123] connected with Dynamic Surroundings @VERSION@
+[01:17:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: charmder123 joined the game
+[01:17:46] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[01:17:46] [Server thread/INFO] [Waila]: Player EntityPlayerMP['charmder123'/5251, l='world', x=55.98, y=29.00, z=81.90] connected. Sending ping
+[01:18:07] [Server thread/DEBUG] [FML]: The world 493d8c30 (world) may have leaked: seen 70 times.
+
+[01:18:07] [Server thread/DEBUG] [FML]: The world 287275b2 (world) may have leaked: seen 70 times.
+
+[01:18:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <charmder123> que hago en una mina
+[01:18:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:18:57] [Server thread/DEBUG] [FML]: The world 493d8c30 (world) may have leaked: seen 75 times.
+
+[01:18:57] [Server thread/DEBUG] [FML]: The world 287275b2 (world) may have leaked: seen 75 times.
+
+[01:19:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:19:47] [Server thread/DEBUG] [FML]: The world 493d8c30 (world) may have leaked: seen 80 times.
+
+[01:19:47] [Server thread/DEBUG] [FML]: The world 287275b2 (world) may have leaked: seen 80 times.
+
+[01:19:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:20:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: charmder123 has completed the challenge [Karma]
+[01:20:37] [Server thread/DEBUG] [FML]: The world 493d8c30 (world) may have leaked: seen 85 times.
+
+[01:20:37] [Server thread/DEBUG] [FML]: The world 287275b2 (world) may have leaked: seen 85 times.
+
+[01:20:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:21:27] [Server thread/DEBUG] [FML]: The world 493d8c30 (world) may have leaked: seen 90 times.
+
+[01:21:27] [Server thread/DEBUG] [FML]: The world 287275b2 (world) may have leaked: seen 90 times.
+
+[01:21:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:21:49] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[01:21:49] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[01:21:49] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[01:21:49] [Server thread/DEBUG] [bettercaves]: CAVE INFORMATION
+[01:21:49] [Server thread/DEBUG] [bettercaves]: --> MAX POSSIBLE THRESHOLD: 1.0
+[01:21:49] [Server thread/DEBUG] [bettercaves]: --> TOTAL PRIORITY: 15
+[01:21:49] [Server thread/DEBUG] [bettercaves]: --> TOTAL RANGE LENGTH: 2.0
+[01:21:49] [Server thread/DEBUG] [bettercaves]: --> CARVER
+[01:21:49] [Server thread/DEBUG] [bettercaves]:     --> RANGE FOUND: [-1.00, 0.33] (0.7890%) -- smooth cutoffs: [-0.29, 0.05]
+[01:21:49] [Server thread/DEBUG] [bettercaves]: --> CARVER
+[01:21:49] [Server thread/DEBUG] [bettercaves]:     --> RANGE FOUND: [0.33, 1.00] (0.2110%) -- smooth cutoffs: [0.42, 0.56]
+[01:21:49] [Server thread/DEBUG] [bettercaves]: CAVERN INFORMATION
+[01:21:49] [Server thread/DEBUG] [bettercaves]: --> SPAWN CHANCE SET TO: 0.25
+[01:21:49] [Server thread/DEBUG] [bettercaves]: --> TOTAL PRIORITY: 20
+[01:21:49] [Server thread/DEBUG] [bettercaves]: --> DEADZONE PERCENT: 0.75(0.75 TOTAL)
+[01:21:49] [Server thread/DEBUG] [bettercaves]: --> CARVER
+[01:21:49] [Server thread/DEBUG] [bettercaves]:     --> RANGE PERCENT LENGTH WANTED: 0.125
+[01:21:49] [Server thread/DEBUG] [bettercaves]:     --> RANGE FOUND: [-1.00, -0.45] (0.1272%) -- smooth cutoffs: [-0.61, -0.52]
+[01:21:49] [Server thread/DEBUG] [bettercaves]: --> CARVER
+[01:21:49] [Server thread/DEBUG] [bettercaves]:     --> RANGE PERCENT LENGTH WANTED: 0.125
+[01:21:49] [Server thread/DEBUG] [bettercaves]:     --> RANGE FOUND: [0.46, 0.76] (0.1260%) -- smooth cutoffs: [0.53, 0.62]
+[01:21:49] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[01:21:49] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[01:21:49] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[01:22:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:22:17] [Server thread/DEBUG] [FML]: The world 493d8c30 (world) may have leaked: seen 95 times.
+
+[01:22:17] [Server thread/DEBUG] [FML]: The world 287275b2 (world) may have leaked: seen 95 times.
+
+[01:22:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:23:07] [Server thread/DEBUG] [FML]: The world 493d8c30 (world) may have leaked: seen 100 times.
+
+[01:23:07] [Server thread/DEBUG] [FML]: The world 287275b2 (world) may have leaked: seen 100 times.
+
+[01:23:30] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: charmder123 lost connection: Disconnected
+[01:23:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: charmder123 left the game
+[01:23:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:23:50] [Server thread/TRACE] [FML]: Handshake channel activating
+[01:23:50] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[01:23:50] [Server thread/DEBUG] [FML]:   Next: HELLO
+[01:23:51] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[01:23:51] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[01:23:51] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ModList:68 mods->FMLHandshakeServerState$2:HELLO
+[01:23:51] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 68 mods : wolfarmor@3.8.0,mowziesmobs@1.5.8,torchslabmod@v1.5.1,zawa@1.12.2-2.1.3,mca@6.1.0,creativecoredummy@1.0.0,jei@4.16.1.1012,powerdrop@1.0,betternether@0.1.8.6,ivtoolkit@1.3.3-1.12,bettercaves@1.12.2,waystones@4.1.0,mcp@9.42,artifacts@1.12.2-1.2.4,champions@1.12.2-1.0.11.10,bookshelf@2.3.590,llibrary@1.7.20,uteamcore@2.2.5.319,additionalstructures@2.5.0,waila@1.8.26,tlauncher_custom_cape_skin@1.4,carryon@1.12.3,fpsreducer@mc1.12.2-1.20,traverse@1.6.0,mysticalworld@1.12.2-1.11.0,usefulslime@1.2,ido@2.0.0-B,paraglider@1.0.1.5,forge@14.23.5.2860,mysticallib@1.12.2-1.13.0,malisisdoors@1.12.2-7.3.0,orelib@3.6.0.1,dsurround@@VERSION@,eplus@5.0.176,ironchest@1.12.2-7.0.67.844,minecraft@1.12.2,malisiscore@1.12.2-6.5.1-SNAPSHOT,usefulbackpacks@1.5.4.85,undergroundbiomes@1.3.14,baubles@1.5.2,creativecore@1.10.0,battletowers@1.6.5,reccomplex@1.4.8.6,gvc@1.2.5,potioncore@1.9_for_1.12.2,quark@r1.6-179,patchouli@1.0-23.6,spartanshields@1.5.4,xaerominimap@24.5.0,mobsunscreen@@version@,qualitytools@1.0.7_for_1.12.2,securitycraft@v1.9.11,autoreglib@1.3-32,FML@8.0.99.99,obfuscate@0.4.2,tombstone@4.6.8,gottschcore@1.15.1,opframe@1.4.0,spartanweaponry@1.6.0,appleskin@1.0.14,cfm@6.3.0,xaerominimap_core@1.12.2-1.0,itemphysic@1.4.0,bookworm@1.12.2-2.5.2.1,xlfoodmod@1.12.2-1.9.2,speedyladders@1.1.3,bettermineshafts@1.12.2-2.2.1,xpbook@v2.0.1
+[01:23:51] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: WAITINGCACK
+[01:23:51] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[01:23:51] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: COMPLETE
+[01:23:54] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[01:23:54] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: DONE
+[01:23:54] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[01:23:54] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:23:54] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: charmder123[/127.173.58.70:33433] logged in with entity id 10395 at (95.30000001192093, 10.0, -6.300000011920929)
+[01:23:54] [Server thread/INFO] [dsurround]: Player [charmder123] connected with Dynamic Surroundings @VERSION@
+[01:23:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: charmder123 joined the game
+[01:23:54] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[01:23:54] [Server thread/INFO] [Waila]: Player EntityPlayerMP['charmder123'/10395, l='world', x=95.30, y=10.00, z=-6.30] connected. Sending ping
+[01:23:57] [Server thread/DEBUG] [FML]: The world 493d8c30 (world) may have leaked: seen 105 times.
+
+[01:23:57] [Server thread/DEBUG] [FML]: The world 287275b2 (world) may have leaked: seen 105 times.
+
+[01:24:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: charmder123 tried to swim in lava
+[01:24:01] [Server thread/INFO] [tombstone]: The last known grave of charmder123 is at location [name:Last Grave, x:93, y:11, z:-10] in the dimension 0
+[01:24:01] [Server thread/INFO] [tombstone]: charmder123 has successfully been saved
+[01:24:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:24:47] [Server thread/DEBUG] [FML]: The world 493d8c30 (world) may have leaked: seen 110 times.
+
+[01:24:47] [Server thread/DEBUG] [FML]: The world 287275b2 (world) may have leaked: seen 110 times.
+
+[01:25:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
