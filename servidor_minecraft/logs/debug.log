@@ -29807,3 +29807,30 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:mossy_cobblestone
 [03:14:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [03:15:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [03:16:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:16:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:17:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:18:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:19:12] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[03:19:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:19:30] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[03:19:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:20:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:21:13] [Server thread/TRACE] [reccomplex]: Generated structure 'DesertBeacon' in StructureBoundingBox{x0=-711, y0=70, z0=-3587, x1=-705, y1=82, z1=-3581} (0)
+[03:21:14] [Server thread/WARN] [FML]: MalisisCore loaded a new chunk [-47, -231] in dimension 0 (overworld) while populating chunk [-45, -230], causing cascading worldgen lag.
+[03:21:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:21:22] [Server thread/TRACE] [reccomplex]: Generated structure 'DesertHut' in StructureBoundingBox{x0=-763, y0=69, z0=-3593, x1=-753, y1=74, z1=-3584} (0)
+[03:21:27] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-50, -238] in dimension 0 (overworld) while populating chunk [-49, -237], causing cascading worldgen lag.
+[03:21:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:21:27] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ -784 | -3792 ], underground: false
+[03:21:27] [Server thread/TRACE] [reccomplex]: Generated structure 'StonePlantMound1' in StructureBoundingBox{x0=-767, y0=69, z0=-3552, x1=-761, y1=73, z1=-3546} (0)
+[03:21:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:22:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:22:51] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-55, -226] in dimension 0 (overworld) while populating chunk [-54, -225], causing cascading worldgen lag.
+[03:22:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:22:51] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type CobbleStoneMossy spawned at [ -864 | -3600 ], underground: false
+[03:22:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:23:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:24:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:25:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:25:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:26:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
